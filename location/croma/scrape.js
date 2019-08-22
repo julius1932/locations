@@ -35,45 +35,39 @@ async function scrapeF() {
 }
 async function scrape(currlink) {
     currlink = currlink.toLowerCase();
-
+    let cityLoc=currlink.split("?")[1];
+    let city=cityLoc.split("&")[0].split("city=").join("");
+     let location=cityLoc.split("&")[1].split("location=").join("");
     console.log(currlink);
 
     const page = await browser.newPage();
     await page.setViewport({ width: 1920, height: 900 });
     await page.goto(currlink, { waitUntil: 'networkidle2', timeout: 0 });
     try {
-        await page.waitForSelector('div#main_wrapper div.wrapper');
+        await page.waitForSelector('#budyisstoreiframe iframe');
     } catch (ee) {
 
     }
 
-
-    let tbleCont = await page.evaluate(() => {
+    let tbleCont = await page.evaluate((city,location) => {
         var arr = [];
-        /* item.title = document.querySelector(".ctl_aboutbrand h1").innerText;
-         item.brand = document.querySelector(".brandlname").innerText;
-         item.price = document.querySelector(".sp_amt").innerText;
-         item.category = "TV";
-         item["Retailer Name"] = "Adhiswar India Limited";*/
-
-        let tableHeader = document.querySelectorAll('div#main_wrapper div.wrapper');
-
+        let tableHeader = document.querySelectorAll('#budyisstoreiframe iframe');
         if (tableHeader) {
             tableHeader.forEach((tr, i) => {
                 if (tr) {
-                    let item = {};
-                    item["other"] = tr.innerText;
+                    let item = {city:city,location:location};
+                    item["url"] = tr.getAttribute("src");
                     arr.push(item);
                 }
 
             });
         }
         return arr;
-    });
+    },city,location);
 
     console.log(tbleCont);
     data = data.concat(tbleCont);
-    //await browser.close();
+    await  page.close();
 
 
 }

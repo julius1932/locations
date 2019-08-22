@@ -43,41 +43,52 @@ async function scrape(currlink) {
     await page.setViewport({ width: 1920, height: 900 });
     await page.goto(currlink, { waitUntil: 'networkidle2', timeout: 0 });
 
-
-    await page.waitForSelector('.aditbox');
-
-    let tbleCont = await page.evaluate(() => {
+    let states = await page.evaluate(() => {
         var arr = [];
-        /* item.title = document.querySelector(".ctl_aboutbrand h1").innerText;
-         item.brand = document.querySelector(".brandlname").innerText;
-         item.price = document.querySelector(".sp_amt").innerText;
-         item.category = "TV";
-         item["Retailer Name"] = "Adhiswar India Limited";*/
-
-        let tableHeader = document.querySelectorAll('.aditbox');
-
+        let tableHeader = document.querySelectorAll('select.form-control option');
         if (tableHeader) {
             tableHeader.forEach((tr, i) => {
-                if (tr) {
-                    let item = {};
-
-                    item["other"] = tr.innerText;
-                    /*if (tr.querySelector(".wpsl-direction-wrap")) {
-                        item["dirrection"] = tr.querySelector(".wpsl-direction-wrap").innerText;
-                    }
-                    if (tr.querySelector(".wpsl-store-location")) {
-                         item["location"] = tr.querySelector(".wpsl-store-location").innerText;
-                    }*/
-                    arr.push(item);
+                if (tr.getAttribute("value")) {
+                    arr.push(tr.getAttribute("value"));
                 }
-
             });
         }
         return arr;
     });
+    console.log(states);
+    for (let i = 0; i < states.length; i++) {
+        await page.select('select[name="stores_in_patna"]', states[i]);
+        await page.waitForSelector('.aditbox');
+        let tbleCont = await page.evaluate(() => {
+            var arr = [];
 
-    console.log(tbleCont);
-    data = data.concat(tbleCont);
+            let city = document.querySelector('.topSb strong').innerText;
+            let tableHeader = document.querySelectorAll('.aditbox');
+
+            if (tableHeader) {
+                tableHeader.forEach((tr, i) => {
+                    if (tr) {
+                        let item = {};
+
+                        item["other"] = tr.innerText;
+                        item["city"] = city;
+                        /*if (tr.querySelector(".wpsl-direction-wrap")) {
+                            item["dirrection"] = tr.querySelector(".wpsl-direction-wrap").innerText;
+                        }
+                        if (tr.querySelector(".wpsl-store-location")) {
+                             item["location"] = tr.querySelector(".wpsl-store-location").innerText;
+                        }*/
+                        arr.push(item);
+                    }
+
+                });
+            }
+            return arr;
+        });
+        console.log(tbleCont);
+        data = data.concat(tbleCont);
+    }
+
     //await browser.close();
 
 

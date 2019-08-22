@@ -8,10 +8,11 @@ var data = [];
 var pagesToVist = Object.keys(data);
 var vistedPages = [];
 var pagesToVist = ["http://www.greateastern.co.in/westbengal-store.html",
-"http://www.greateastern.co.in/odishl-store.html",
-"http://www.greateastern.co.in/rajasthan-store.html",
-"http://www.greateastern.co.in/up-store.html",
-"http://www.greateastern.co.in/ap-store.html"];
+    "http://www.greateastern.co.in/odishl-store.html",
+    "http://www.greateastern.co.in/rajasthan-store.html",
+    "http://www.greateastern.co.in/up-store.html",
+    "http://www.greateastern.co.in/ap-store.html"
+];
 
 //console.log(arr.length);
 var count = 0;
@@ -49,12 +50,12 @@ async function scrape(currlink) {
     //var pic = "screenshots/shotP" + Date.now() + ".jpeg";
     // await page.screenshot({ path: pic, type: 'jpeg', fullPage: true });
     try {
-        await page.waitForSelector('.ex1 .new-map-text', { timeout: 1000 });
+        await page.waitForSelector('.ex1 .col-sm-6 .new-map-text', { timeout: 1000 });
         //await page.click('div.product-tags :nth-child(2) a');
     } catch (err) {
 
     }
-    let tbleCont = await page.evaluate(() => {
+    let tbleCont = await page.evaluate((currlink) => {
         var arr = [];
         /* item.title = document.querySelector(".ctl_aboutbrand h1").innerText;
          item.brand = document.querySelector(".brandlname").innerText;
@@ -62,22 +63,31 @@ async function scrape(currlink) {
          item.category = "TV";
          item["Retailer Name"] = "Adhiswar India Limited";*/
 
-        let tableHeader = document.querySelectorAll('.ex1 .new-map-text');
-
+        //div.google-maps-link href split ?ll &
+        let tableHeader = document.querySelectorAll('.ex1 .col-sm-6');
+        let city = document.querySelector('.container .inner-heading').innerText;
         if (tableHeader) {
             tableHeader.forEach((tr, i) => {
                 if (tr) {
                     let item = {};
-                   
-                    item["other"] = tr.innerText;
+                    item.city=city;
+                    item.url=currlink;
+                    if (tr.querySelector('.new-map-text')) {
+                       item["other"] = tr.querySelector('.new-map-text').innerText; 
+                    }
                     
+                    if (tr.querySelector('div.google-maps-link a')) {
+                        let hf = tr.querySelector('div.google-maps-link a').getAttribute("href");
+                        hf = hf.split("?ll")[1].split("&")[0];
+                        item["ll"] = hf;
+                    }
                     arr.push(item);
                 }
 
             });
         }
         return arr;
-    });
+    },currlink);
 
     console.log(tbleCont);
     data = data.concat(tbleCont);

@@ -66,6 +66,8 @@ async function scrape(currlink) {
                     item["address"] = tr.querySelector(".f-l").innerText;
                     item["phone"] = tr.querySelector(".phone-fr").innerText;
                     item["category"] = tr.querySelector(".f-r").innerText;
+                    let aa=tr.querySelector(".map-link a").getAttribute("href").split("/");
+                    item["ll"] = aa[aa.length-1];
                     arr.push(item);
                 }
 

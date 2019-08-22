@@ -7,7 +7,7 @@ var stringify = require('csv-stringify');
 var data = [];
 var pagesToVist = Object.keys(data);
 var vistedPages = [];
-var pagesToVist = ["https://www.uniletstores.com/store-locator/"];
+var pagesToVist = ["https://www.sathya.store/all/stores"];
 
 //console.log(arr.length);
 var count = 0;
@@ -42,38 +42,17 @@ async function scrape(currlink) {
     const page = await browser.newPage();
     await page.setViewport({ width: 1920, height: 900 });
     await page.goto(currlink, { waitUntil: 'networkidle2', timeout: 0 });
-    //var pic = "screenshots/shotP" + Date.now() + ".jpeg";
-    // await page.screenshot({ path: pic, type: 'jpeg', fullPage: true });
 
-    await page.waitForSelector('#wpsl-result-list div#wpsl-stores ul li .wpsl-direction-wrap');
-    //await page.click('div.product-tags :nth-child(2) a');
+    await page.waitForSelector('.store-box-details');
 
     let tbleCont = await page.evaluate(() => {
         var arr = [];
-        /* item.title = document.querySelector(".ctl_aboutbrand h1").innerText;
-         item.brand = document.querySelector(".brandlname").innerText;
-         item.price = document.querySelector(".sp_amt").innerText;
-         item.category = "TV";
-         item["Retailer Name"] = "Adhiswar India Limited";*/
-
-        let tableHeader = document.querySelectorAll('div#wpsl-stores ul li');
-
+        let tableHeader = document.querySelectorAll('.store-box-details');
         if (tableHeader) {
             tableHeader.forEach((tr, i) => {
                 if (tr) {
                     let item = {};
-
                     item["other"] = tr.innerText;
-                    if (tr.querySelector(".wpsl-direction-wrap")) {
-                        item["dirrection"] = tr.querySelector(".wpsl-direction-wrap").innerText;
-                    }
-                    if (tr.querySelector(".wpsl-store-location")) {
-                        item["location"] = tr.querySelector(".wpsl-store-location strong").innerText;
-                        item["address"] = tr.querySelector(".wpsl-store-location .wpsl-street:nth-of-type(1)").innerText;
-                        item["phone"] = tr.querySelector(".wpsl-store-location .wpsl-street:nth-of-type(2)").innerText;
-                          item["city"] = tr.querySelector(".wpsl-store-location span:nth-of-type(3)").innerText;
-                        item["country"] = tr.querySelector(".wpsl-store-location .wpsl-country").innerText;
-                    }
                     arr.push(item);
                 }
 

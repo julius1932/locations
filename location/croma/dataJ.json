@@ -1,0 +1,637 @@
+[
+  {
+    "city": "ahmedabad",
+    "location": "satyam-ahmedabad",
+    "url": "https://ysprod.croma.com/store_sites/ahmedabad-satyam-ahmedabad.html"
+  },
+  {
+    "city": "ahmedabad",
+    "location": "motera",
+    "url": "https://ysprod.croma.com/store_sites/ahmedabad-motera.html"
+  },
+  {
+    "city": "ahmedabad",
+    "location": "maninagar",
+    "url": "https://ysprod.croma.com/store_sites/ahmedabad-maninagar.html"
+  },
+  {
+    "city": "ahmedabad",
+    "location": "himalaya-mall",
+    "url": "https://ysprod.croma.com/store_sites/ahmedabad-himalaya-mall.html"
+  },
+  {
+    "city": "ahmedabad",
+    "location": "dev-arc-mall",
+    "url": "https://ysprod.croma.com/store_sites/ahmedabad-dev-arc-mall.html"
+  },
+  {
+    "city": "ahmedabad",
+    "location": "ashram-road",
+    "url": "https://ysprod.croma.com/store_sites/ahmedabad-ashram-road.html"
+  },
+  {
+    "city": "ahmedabad",
+    "location": "ahmedabad-domestic-airport",
+    "url": "https://ysprod.croma.com/store_sites/ahmedabad-ahmedabad-domestic-airport.html"
+  },
+  {
+    "city": "aurangabad",
+    "location": "prozone-mall",
+    "url": "https://ysprod.croma.com/store_sites/aurangabad-prozone-mall.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "woodys-j-p-nagar",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-woodys-j-p-nagar.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "star-bazar-kormangala",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-star-bazar-kormangala.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "sarjapur",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-sarjapur.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "royal-meenakshi-mall",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-royal-meenakshi-mall.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "rajaji-nagar",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-rajaji-nagar.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "phoenix-market-city",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-phoenix-market-city.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "new-bel-road",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-new-bel-road.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "miraya-rose",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-miraya-rose.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "marathahalli",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-marathahalli.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "malleshwaram",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-malleshwaram.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "koramangala",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-koramangala.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "kalyana-nagar",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-kalyana-nagar.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "jayanagar",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-jayanagar.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "indira-nagar",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-indira-nagar.html"
+  },
+  {
+    "city": "bangalore",
+    "location": "banshankari",
+    "url": "https://ysprod.croma.com/store_sites/bangalore-banshankari.html"
+  },
+  {
+    "city": "bhavnagar",
+    "location": "croma-bhavnagar",
+    "url": "https://ysprod.croma.com/store_sites/bhavnagar-croma-bhavnagar.html"
+  },
+  {
+    "city": "bhuj",
+    "location": "croma-bhuj",
+    "url": "https://ysprod.croma.com/store_sites/bhuj-croma-bhuj.html"
+  },
+  {
+    "city": "chandigarh",
+    "location": "sector-26",
+    "url": "https://ysprod.croma.com/store_sites/chandigarh-sector-26.html"
+  },
+  {
+    "city": "chandigarh",
+    "location": "sector-22b",
+    "url": "https://ysprod.croma.com/store_sites/chandigarh-sector-22b.html"
+  },
+  {
+    "city": "chennai",
+    "location": "t-nagar",
+    "url": "https://ysprod.croma.com/store_sites/chennai-t-nagar.html"
+  },
+  {
+    "city": "chennai",
+    "location": "phoenix-market-city-vellachery",
+    "url": "https://ysprod.croma.com/store_sites/chennai-phoenix-market-city-vellachery.html"
+  },
+  {
+    "city": "chennai",
+    "location": "mount-road",
+    "url": "https://ysprod.croma.com/store_sites/chennai-mount-road.html"
+  },
+  {
+    "city": "chennai",
+    "location": "mogappair",
+    "url": "https://ysprod.croma.com/store_sites/chennai-mogappair.html"
+  },
+  {
+    "city": "chennai",
+    "location": "grand-mall-velachery",
+    "url": "https://ysprod.croma.com/store_sites/chennai-grand-mall-velachery.html"
+  },
+  {
+    "city": "chennai",
+    "location": "croma-avadi",
+    "url": "https://ysprod.croma.com/store_sites/chennai-croma-avadi.html"
+  },
+  {
+    "city": "chennai",
+    "location": "chrompet-croma",
+    "url": "https://ysprod.croma.com/store_sites/chennai-chrompet-croma.html"
+  },
+  {
+    "city": "chennai",
+    "location": "bsr-mall",
+    "url": "https://ysprod.croma.com/store_sites/chennai-bsr-mall.html"
+  },
+  {
+    "city": "chennai",
+    "location": "annanagar",
+    "url": "https://ysprod.croma.com/store_sites/chennai-annanagar.html"
+  },
+  {
+    "city": "faridabad",
+    "location": "crown-mall",
+    "url": "https://ysprod.croma.com/store_sites/faridabad-crown-mall.html"
+  },
+  {
+    "city": "ghaziabad",
+    "location": "pacific-mall",
+    "url": "https://ysprod.croma.com/store_sites/ghaziabad-pacific-mall.html"
+  },
+  {
+    "city": "ghaziabad",
+    "location": "gaur-central-rdc",
+    "url": "https://ysprod.croma.com/store_sites/ghaziabad-gaur-central-rdc.html"
+  },
+  {
+    "city": "ghaziabad",
+    "location": "aditya-city-centre-indirapuram",
+    "url": "https://ysprod.croma.com/store_sites/ghaziabad-aditya-city-centre-indirapuram.html"
+  },
+  {
+    "city": "goa",
+    "location": "croma-goa",
+    "url": "https://ysprod.croma.com/store_sites/goa-croma-goa.html"
+  },
+  {
+    "city": "greater-noida",
+    "location": "greater-noida-ansal-plaza",
+    "url": "https://ysprod.croma.com/store_sites/greater-noida-greater-noida-ansal-plaza.html"
+  },
+  {
+    "city": "gurgaon",
+    "location": "sohna-road",
+    "url": "https://ysprod.croma.com/store_sites/gurgaon-sohna-road.html"
+  },
+  {
+    "city": "gurgaon",
+    "location": "sector-29",
+    "url": "https://ysprod.croma.com/store_sites/gurgaon-sector-29.html"
+  },
+  {
+    "city": "gurgaon",
+    "location": "dlf-city",
+    "url": "https://ysprod.croma.com/store_sites/gurgaon-dlf-city.html"
+  },
+  {
+    "city": "gurgaon",
+    "location": "ambience-mall",
+    "url": "https://ysprod.croma.com/store_sites/gurgaon-ambience-mall.html"
+  },
+  {
+    "city": "gwalior",
+    "location": "croma-gwalior-city-center",
+    "url": "https://ysprod.croma.com/store_sites/gwalior-croma-gwalior-city-center.html"
+  },
+  {
+    "city": "hubli",
+    "location": "hubli-croma",
+    "url": "https://ysprod.croma.com/store_sites/hubli-hubli-croma.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "vikrampuri-kharkhana",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-vikrampuri-kharkhana.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "sarath-city-capital",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-sarath-city-capital.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "ramanthapur-croma",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-ramanthapur-croma.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "l-b-nagar",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-l-b-nagar.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "kondapur",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-kondapur.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "kompally-ratna-arcade",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-kompally-ratna-arcade.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "jubilee-hills",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-jubilee-hills.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "hyderabad-international-airport",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-hyderabad-international-airport.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "croma-kukatpally",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-croma-kukatpally.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "attapur",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-attapur.html"
+  },
+  {
+    "city": "hyderabad",
+    "location": "a-s-rao-nagar",
+    "url": "https://ysprod.croma.com/store_sites/hyderabad-a-s-rao-nagar.html"
+  },
+  {
+    "city": "indore",
+    "location": "croma-indore",
+    "url": "https://ysprod.croma.com/store_sites/indore-croma-indore.html"
+  },
+  {
+    "city": "jaipur",
+    "location": "wtp-jaipur",
+    "url": "https://ysprod.croma.com/store_sites/jaipur-wtp-jaipur.html"
+  },
+  {
+    "city": "jamnagar",
+    "location": "jamnagar",
+    "url": "https://ysprod.croma.com/store_sites/jamnagar-jamnagar.html"
+  },
+  {
+    "city": "kolhapur",
+    "location": "croma-kolhapur",
+    "url": "https://ysprod.croma.com/store_sites/kolhapur-croma-kolhapur.html"
+  },
+  {
+    "city": "kolkata",
+    "location": "croma-sarat-bose-road",
+    "url": "https://ysprod.croma.com/store_sites/kolkata-croma-sarat-bose-road.html"
+  },
+  {
+    "city": "mandya",
+    "location": "mandya-croma",
+    "url": "https://ysprod.croma.com/store_sites/mandya-mandya-croma.html"
+  },
+  {
+    "city": "mohali",
+    "location": "vr-mohali",
+    "url": "https://ysprod.croma.com/store_sites/mohali-vr-mohali.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "terminal-1b-mumbai-airport",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-terminal-1b-mumbai-airport.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "sion",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-sion.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "seawoods-grand-central-mall",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-seawoods-grand-central-mall.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "r-city-mall-ghatkopar",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-r-city-mall-ghatkopar.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "r-mall",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-r-mall.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "phoenix-market-city-kurla",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-phoenix-market-city-kurla.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "mumbai-airport-terminal-2-departures",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-mumbai-airport-terminal-2-departures.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "mulund",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-mulund.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "maxus-mall-bhayander",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-maxus-mall-bhayander.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "malad-link-road",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-malad-link-road.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "mahavir-nagar-kandivali",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-mahavir-nagar-kandivali.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "kharghar",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-kharghar.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "juhu",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-juhu.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "infiniti-mall",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-infiniti-mall.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "horniman-circle-fort",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-horniman-circle-fort.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "high-street-phoenix-lower-parel",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-high-street-phoenix-lower-parel.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "growel-mall",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-growel-mall.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "croma-thane",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-croma-thane.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "croma-churchgate-god",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-croma-churchgate-god.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "croma-big-mall-thane",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-croma-big-mall-thane.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "century-bhawan-prabhadevi",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-century-bhawan-prabhadevi.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "breach-candy",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-breach-candy.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "borivali-west-",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-borivali-west-.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "bhandup",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-bhandup.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "belapur-cbd",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-belapur-cbd.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "bandra-linking-road",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-bandra-linking-road.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "andheri-w-",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-andheri-w-.html"
+  },
+  {
+    "city": "mumbai",
+    "location": "akshar-plaza-vashi-",
+    "url": "https://ysprod.croma.com/store_sites/mumbai-akshar-plaza-vashi-.html"
+  },
+  {
+    "city": "mysore",
+    "location": "croma-mysore-double-rd",
+    "url": "https://ysprod.croma.com/store_sites/mysore-croma-mysore-double-rd.html"
+  },
+  {
+    "city": "nasik",
+    "location": "off-college-road",
+    "url": "https://ysprod.croma.com/store_sites/nasik-off-college-road.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "south-ex",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-south-ex.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "select-citywalk-mall",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-select-citywalk-mall.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "saket",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-saket.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "rohini-unity-metro-park",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-rohini-unity-metro-park.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "rohini-sector3",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-rohini-sector3.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "rajouri-garden",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-rajouri-garden.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "pusa-road",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-pusa-road.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "preet-vihar",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-preet-vihar.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "kamla-nagar",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-kamla-nagar.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "janakpuri-unity-one",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-janakpuri-unity-one.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "green-park",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-green-park.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "east-of-kailash",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-east-of-kailash.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "dwarka",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-dwarka.html"
+  },
+  {
+    "city": "new-delhi",
+    "location": "connaught-place",
+    "url": "https://ysprod.croma.com/store_sites/new-delhi-connaught-place.html"
+  },
+  {
+    "city": "noida",
+    "location": "noida-mall-of-india",
+    "url": "https://ysprod.croma.com/store_sites/noida-noida-mall-of-india.html"
+  },
+  {
+    "city": "noida",
+    "location": "logix-city-centre",
+    "url": "https://ysprod.croma.com/store_sites/noida-logix-city-centre.html"
+  },
+  {
+    "city": "pune",
+    "location": "wakad",
+    "url": "https://ysprod.croma.com/store_sites/pune-wakad.html"
+  },
+  {
+    "city": "pune",
+    "location": "seasons-mall-magarpatta-city",
+    "url": "https://ysprod.croma.com/store_sites/pune-seasons-mall-magarpatta-city.html"
+  },
+  {
+    "city": "pune",
+    "location": "pimpri",
+    "url": "https://ysprod.croma.com/store_sites/pune-pimpri.html"
+  },
+  {
+    "city": "pune",
+    "location": "phoenix-market-city",
+    "url": "https://ysprod.croma.com/store_sites/pune-phoenix-market-city.html"
+  },
+  {
+    "city": "pune",
+    "location": "krome-mall-pune-solapur-road",
+    "url": "https://ysprod.croma.com/store_sites/pune-krome-mall-pune-solapur-road.html"
+  },
+  {
+    "city": "pune",
+    "location": "kothrud",
+    "url": "https://ysprod.croma.com/store_sites/pune-kothrud.html"
+  },
+  {
+    "city": "pune",
+    "location": "croma-baramati",
+    "url": "https://ysprod.croma.com/store_sites/pune-croma-baramati.html"
+  },
+  {
+    "city": "pune",
+    "location": "baner-pune",
+    "url": "https://ysprod.croma.com/store_sites/pune-baner-pune.html"
+  },
+  {
+    "city": "pune",
+    "location": "aundh",
+    "url": "https://ysprod.croma.com/store_sites/pune-aundh.html"
+  },
+  {
+    "city": "rajkot",
+    "location": "crystal-mall",
+    "url": "https://ysprod.croma.com/store_sites/rajkot-crystal-mall.html"
+  },
+  {
+    "city": "surat",
+    "location": "varachha",
+    "url": "https://ysprod.croma.com/store_sites/surat-varachha.html"
+  },
+  {
+    "city": "surat",
+    "location": "piplod",
+    "url": "https://ysprod.croma.com/store_sites/surat-piplod.html"
+  },
+  {
+    "city": "surat",
+    "location": "ghoddod-road",
+    "url": "https://ysprod.croma.com/store_sites/surat-ghoddod-road.html"
+  },
+  {
+    "city": "vadodara",
+    "location": "eva-mall",
+    "url": "https://ysprod.croma.com/store_sites/vadodara-eva-mall.html"
+  },
+  {
+    "city": "vadodara",
+    "location": "centre-square-mall",
+    "url": "https://ysprod.croma.com/store_sites/vadodara-centre-square-mall.html"
+  }
+]
