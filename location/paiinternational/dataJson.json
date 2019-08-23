@@ -1,650 +1,1082 @@
 [
   {
-    "other": "Indiranagar - MBS\n# 28/1A 100 Feet Road,\nNear CMH Road,\nBangalore - 560038.\nView Location\n\n"
+    "location": "Indiranagar -  MBS",
+    "address": "# 28/1A 100 Feet Road,\nNear CMH Road,\nBangalore -  560038.",
+    "other": "Indiranagar -  MBS\n# 28/1A 100 Feet Road,\nNear CMH Road,\nBangalore -  560038.\n"
   },
   {
-    "other": "FRAZER TOWN– MBS\n#10/1, Mosque Road,\nFrazer Town, BBMP Ward No 91,\nBangalore 560005,\nView Location\n\n"
+    "location": "FRAZER TOWN– MBS",
+    "address": "#10/1, Mosque Road,\nFrazer Town, BBMP Ward No 91,\nBangalore 560005,",
+    "other": "FRAZER TOWN– MBS\n#10/1, Mosque Road,\nFrazer Town, BBMP Ward No 91,\nBangalore 560005,\n"
   },
   {
-    "other": "BAGALUR CROSS– MBS\n# 34, 8th Main, Vinayakanagar,\nEx Servicemen Colony,\nBagalur Cross, Bangalore-560063\nView Location\n\n"
+    "location": "BAGALUR CROSS– MBS",
+    "address": "# 34, 8th Main, Vinayakanagar,\nEx Servicemen Colony,\nBagalur Cross, Bangalore- 560063",
+    "other": "BAGALUR CROSS– MBS\n# 34, 8th Main, Vinayakanagar,\nEx Servicemen Colony,\nBagalur Cross, Bangalore- 560063\n"
   },
   {
-    "other": "RT NAGAR– Smart Electronic\n# 373/1, Opp Police Station,\nRT Nagar, Bangalore - 560032,\nView Location\n\n"
+    "location": "RT NAGAR– Smart Electronic",
+    "address": "# 373/1, Opp Police Station,\nRT Nagar, Bangalore -  560032,",
+    "other": "RT NAGAR– Smart Electronic\n# 373/1, Opp Police Station,\nRT Nagar, Bangalore -  560032,\n"
   },
   {
-    "other": "Electronic City – MBS\nSy No.153/5 (Old Sy No. 152/3),\nNeeladri Nagar Main Road, Hulimangala Cross,\nHulimangala Cross ,Electronic City Phase-1,\nBangalore - 560100.\nView Location\n\n"
+    "location": "Electronic City – MBS",
+    "address": "Sy No.153/5 (Old Sy No. 152/3),\nNeeladri Nagar Main Road, Hulimangala Cross,\nHulimangala Cross ,Electronic City Phase- 1,\nBangalore -  560100.",
+    "other": "Electronic City – MBS\nSy No.153/5 (Old Sy No. 152/3),\nNeeladri Nagar Main Road, Hulimangala Cross,\nHulimangala Cross ,Electronic City Phase- 1,\nBangalore -  560100.\n"
   },
   {
-    "other": "BIDAR – MBS\n# 8-9-459/A3, A4, A5, Ground Floor,\nand 8-9-459 First Floor, Swamy Towers,\nHotel The Krishna Regency,\nUdgir Road Bidar-585401\nView Location\n\n"
+    "location": "BIDAR – MBS",
+    "address": "# 8- 9- 459/A3, A4, A5, Ground Floor,\nand 8- 9- 459 First Floor, Swamy Towers,\nHotel The Krishna Regency,\nUdgir Road Bidar- 585401",
+    "other": "BIDAR – MBS\n# 8- 9- 459/A3, A4, A5, Ground Floor,\nand 8- 9- 459 First Floor, Swamy Towers,\nHotel The Krishna Regency,\nUdgir Road Bidar- 585401\n"
   },
   {
-    "other": "Hubli 2 – MBS\nCts No. 4523,4526,\"Kalburgi Trinity\",\nOpposite J.G College Of Commerce,\nVidyanagar, Hubli-580032.\nView Location\n\n"
+    "location": "Hubli 2 – MBS",
+    "address": "Cts No. 4523,4526,\"Kalburgi Trinity\",\nOpposite J.G College Of Commerce,\nVidyanagar, Hubli- 580032.",
+    "other": "Hubli 2 – MBS\nCts No. 4523,4526,\"Kalburgi Trinity\",\nOpposite J.G College Of Commerce,\nVidyanagar, Hubli- 580032.\n"
   },
   {
-    "other": "Vijayanagar - MBS\n# 44/1, 1019/A, 2nd Main,\nService Road, Vijayanagar,\nBangalore - 560040.\nView Location\n\n"
+    "location": "Vijayanagar -  MBS",
+    "address": "# 44/1, 1019/A, 2nd Main,\nService Road, Vijayanagar,\nBangalore -  560040.",
+    "other": "Vijayanagar -  MBS\n# 44/1, 1019/A, 2nd Main,\nService Road, Vijayanagar,\nBangalore -  560040.\n"
   },
   {
-    "other": "Marathalli - MBS\n# 88, Outer Ring Road, Munnekolla,\nMarathalli, Bangalore - 560037\nView Location\n\n"
+    "location": "Marathalli -  MBS",
+    "address": "# 88, Outer Ring Road, Munnekolla,\nMarathalli, Bangalore -  560037",
+    "other": "Marathalli -  MBS\n# 88, Outer Ring Road, Munnekolla,\nMarathalli, Bangalore -  560037\n"
   },
   {
-    "other": "Peenya - MBS\n# 728, Jalahalli Cross,\nOpp Bharathi Cinema,\nPeenya, Bangalore - 560057.\nView Location\n\n"
+    "location": "Peenya -  MBS",
+    "address": "# 728, Jalahalli Cross,\nOpp Bharathi Cinema,\nPeenya, Bangalore -  560057.",
+    "other": "Peenya -  MBS\n# 728, Jalahalli Cross,\nOpp Bharathi Cinema,\nPeenya, Bangalore -  560057.\n"
   },
   {
-    "other": "Yelahanka 1 - MBS\n# 430/363, NH 7,\nNear Santhe Circle, Yelahanka,\nBangalore - 560064.\nView Location\n\n"
+    "location": "Yelahanka 1 -  MBS",
+    "address": "# 430/363, NH 7,\nNear Santhe Circle, Yelahanka,\nBangalore -  560064.",
+    "other": "Yelahanka 1 -  MBS\n# 430/363, NH 7,\nNear Santhe Circle, Yelahanka,\nBangalore -  560064.\n"
   },
   {
-    "other": "BG Road - MBS\n# 6, Bilekahalli Gate\nBannerghatta Road,\nBangalore - 560076.\nView Location\n\n"
+    "location": "BG Road -  MBS",
+    "address": "# 6, Bilekahalli Gate\nBannerghatta Road,\nBangalore -  560076.",
+    "other": "BG Road -  MBS\n# 6, Bilekahalli Gate\nBannerghatta Road,\nBangalore -  560076.\n"
   },
   {
-    "other": "HRBR - MBS\n# 820, 5th A Cross, Kalyan Nagar,\n1st Block, Near Big Ganesha Temple\nHRBR Layout, Bangalore - 560043.\nView Location\n\n"
+    "location": "HRBR -  MBS",
+    "address": "# 820, 5th A Cross, Kalyan Nagar,\n1st Block, Near Big Ganesha Temple\nHRBR Layout, Bangalore -  560043.",
+    "other": "HRBR -  MBS\n# 820, 5th A Cross, Kalyan Nagar,\n1st Block, Near Big Ganesha Temple\nHRBR Layout, Bangalore -  560043.\n"
   },
   {
-    "other": "Rajajinagar - MBS\n# 196, 2nd Stage, West of Chord Road,\nService Road, Near Iscon Temple\nRajajinagar, Bangalore - 560086\nView Location\n\n"
+    "location": "Rajajinagar -  MBS",
+    "address": "# 196, 2nd Stage, West of Chord Road,\nService Road, Near Iscon Temple\nRajajinagar, Bangalore -  560086",
+    "other": "Rajajinagar -  MBS\n# 196, 2nd Stage, West of Chord Road,\nService Road, Near Iscon Temple\nRajajinagar, Bangalore -  560086\n"
   },
   {
-    "other": "Jayanagar - MBS\n# 25, 100 Feet Road, Opp Rani Sarala Devi School,\n2nd Block, Jayanagar,\nBangalore - 560011.\nView Location\n\n"
+    "location": "Jayanagar -  MBS",
+    "address": "# 25, 100 Feet Road, Opp Rani Sarala Devi School,\n2nd Block, Jayanagar,\nBangalore -  560011.",
+    "other": "Jayanagar -  MBS\n# 25, 100 Feet Road, Opp Rani Sarala Devi School,\n2nd Block, Jayanagar,\nBangalore -  560011.\n"
   },
   {
-    "other": "RR Nagar - MBS\nNo.459, Ideal Homes, Near Raja Rajeshwari Arch,\nBBMP Ward No.160, Raja Rajeshwari Nagar,\nBangalore-560098.\nView Location\n\n"
+    "location": "RR Nagar -  MBS",
+    "address": "No.459, Ideal Homes, Near Raja Rajeshwari Arch,\nBBMP Ward No.160, Raja Rajeshwari Nagar,\nBangalore- 560098.",
+    "other": "RR Nagar -  MBS\nNo.459, Ideal Homes, Near Raja Rajeshwari Arch,\nBBMP Ward No.160, Raja Rajeshwari Nagar,\nBangalore- 560098.\n"
   },
   {
-    "other": "Jayanagar - LG Shoppe\n# 427/14, 41st Cross, 5th Block\n9th Main, Jayanagar,\nBangalore - 560041.\nView Location\n\n"
+    "location": "Jayanagar -  LG Shoppe",
+    "address": "# 427/14, 41st Cross, 5th Block\n9th Main, Jayanagar,\nBangalore -  560041.",
+    "other": "Jayanagar -  LG Shoppe\n# 427/14, 41st Cross, 5th Block\n9th Main, Jayanagar,\nBangalore -  560041.\n"
   },
   {
-    "other": "Koramangala - MBS\n# 632, 100 Feet Road, 6th Block\nKoramangala, Next to Shanti Sagar,\nBangalore - 560095.\nView Location\n\n"
+    "location": "Koramangala -  MBS",
+    "address": "# 632, 100 Feet Road, 6th Block\nKoramangala, Next to Shanti Sagar,\nBangalore -  560095.",
+    "other": "Koramangala -  MBS\n# 632, 100 Feet Road, 6th Block\nKoramangala, Next to Shanti Sagar,\nBangalore -  560095.\n"
   },
   {
-    "other": "Girinagar - MBS\n# 21, 50 Feet Road, Avalahalli,\nGirinagar, Bangalore - 560085.\nView Location\n\n"
+    "location": "Girinagar -  MBS",
+    "address": "# 21, 50 Feet Road, Avalahalli,\nGirinagar, Bangalore -  560085.",
+    "other": "Girinagar -  MBS\n# 21, 50 Feet Road, Avalahalli,\nGirinagar, Bangalore -  560085.\n"
   },
   {
-    "other": "BSK - MBS\n# 28, Kathriguppe Main Road,\nBanashankari 3rd Stage, 3rd Phase,\nBangalore - 560085.\nView Location\n\n"
+    "location": "BSK -  MBS",
+    "address": "# 28, Kathriguppe Main Road,\nBanashankari 3rd Stage, 3rd Phase,\nBangalore -  560085.",
+    "other": "BSK -  MBS\n# 28, Kathriguppe Main Road,\nBanashankari 3rd Stage, 3rd Phase,\nBangalore -  560085.\n"
   },
   {
-    "other": "HSR - Sony Center\n# 2799, 27th Main Sector - 1,\nHSR Layout, Bangalore - 560102.\nView Location\n\n"
+    "location": "HSR -  Sony Center",
+    "address": "# 2799, 27th Main Sector -  1,\nHSR Layout, Bangalore -  560102.",
+    "other": "HSR -  Sony Center\n# 2799, 27th Main Sector -  1,\nHSR Layout, Bangalore -  560102.\n"
   },
   {
-    "other": "Sarjapur - MBS\n# 71/A, Kaikondrahalli,\nSarjapura Road,\nBangalore - 560034.\nView Location\n\n"
+    "location": "Sarjapur -  MBS",
+    "address": "# 71/A, Kaikondrahalli,\nSarjapura Road,\nBangalore -  560034.",
+    "other": "Sarjapur -  MBS\n# 71/A, Kaikondrahalli,\nSarjapura Road,\nBangalore -  560034.\n"
   },
   {
-    "other": "Yelahanka 2 - MBS\n# 952/A, Near Police Station,\nBB Road, Yelahanka,\nBangalore - 560064.\nView Location\n\n"
+    "location": "Yelahanka 2 -  MBS",
+    "address": "# 952/A, Near Police Station,\nBB Road, Yelahanka,\nBangalore -  560064.",
+    "other": "Yelahanka 2 -  MBS\n# 952/A, Near Police Station,\nBB Road, Yelahanka,\nBangalore -  560064.\n"
   },
   {
-    "other": "Sunkadakatte - MBS\n# 4016, BMS Complex, Magadi Main Road\nSunkadakatte,\nBangalore - 560091.\nView Location\n\n"
+    "location": "Sunkadakatte -  MBS",
+    "address": "# 4016, BMS Complex, Magadi Main Road\nSunkadakatte,\nBangalore -  560091.",
+    "other": "Sunkadakatte -  MBS\n# 4016, BMS Complex, Magadi Main Road\nSunkadakatte,\nBangalore -  560091.\n"
   },
   {
-    "other": "Puttenahalli - MBS\n# 468, Opp Manipal Clinic,\nPuttenahalli Main Road,\nRBI Layout,\nBangalore - 560078.\nView Location\n\n"
+    "location": "Puttenahalli -  MBS",
+    "address": "# 468, Opp Manipal Clinic,\nPuttenahalli Main Road,\nRBI Layout,\nBangalore -  560078.",
+    "other": "Puttenahalli -  MBS\n# 468, Opp Manipal Clinic,\nPuttenahalli Main Road,\nRBI Layout,\nBangalore -  560078.\n"
   },
   {
-    "other": "Mathikere - MBS\n# 13/11, Balaji Arcade, 1st Main Road,\n(Next to LIC Building), Gokul 1st Stage, 1st Phase,\nMathikere, Bangalore – 560054.\nView Location\n\n"
+    "location": "Mathikere -  MBS",
+    "address": "# 13/11, Balaji Arcade, 1st Main Road,\n(Next to LIC Building), Gokul 1st Stage, 1st Phase,\nMathikere, Bangalore – 560054.",
+    "other": "Mathikere -  MBS\n# 13/11, Balaji Arcade, 1st Main Road,\n(Next to LIC Building), Gokul 1st Stage, 1st Phase,\nMathikere, Bangalore – 560054.\n"
   },
   {
-    "other": "Mahadevapura - MBS\n# P-1, KSIIDC Industrial Estate,\nWhite Field Road, Mahadevapura,\nBangalore - 560048.\nView Location\n\n"
+    "location": "Mahadevapura -  MBS",
+    "address": "# P- 1, KSIIDC Industrial Estate,\nWhite Field Road, Mahadevapura,\nBangalore -  560048.",
+    "other": "Mahadevapura -  MBS\n# P- 1, KSIIDC Industrial Estate,\nWhite Field Road, Mahadevapura,\nBangalore -  560048.\n"
   },
   {
-    "other": "HSR - MBS\n# 964, 1st Sector, 27th Main,\nHSR Layout, Bangalore - 560102.\nView Location\n\n"
+    "location": "HSR -  MBS",
+    "address": "# 964, 1st Sector, 27th Main,\nHSR Layout, Bangalore -  560102.",
+    "other": "HSR -  MBS\n# 964, 1st Sector, 27th Main,\nHSR Layout, Bangalore -  560102.\n"
   },
   {
-    "other": "Malleshwaram - MBS\nNo.9, 3rd Main Road,\nMargosa Road, Malleshwaram,\nBangalore – 560003.\nView Location\n\n"
+    "location": "Malleshwaram -  MBS",
+    "address": "No.9, 3rd Main Road,\nMargosa Road, Malleshwaram,\nBangalore – 560003.",
+    "other": "Malleshwaram -  MBS\nNo.9, 3rd Main Road,\nMargosa Road, Malleshwaram,\nBangalore – 560003.\n"
   },
   {
-    "other": "RT Nagar - MBS\nNo.493, CBI Road Corner,\nNear HMT Ground, Gangenahalli,\nRT Nagar, Bangalore - 560032\nView Location\n\n"
+    "location": "RT Nagar -  MBS",
+    "address": "No.493, CBI Road Corner,\nNear HMT Ground, Gangenahalli,\nRT Nagar, Bangalore -  560032",
+    "other": "RT Nagar -  MBS\nNo.493, CBI Road Corner,\nNear HMT Ground, Gangenahalli,\nRT Nagar, Bangalore -  560032\n"
   },
   {
-    "other": "Kengeri - MBS\nNo. 27, R.R.Layout,\nNagadevanahalli, Kengeri Ring Road,\nBangalore - 560056.\nView Location\n\n"
+    "location": "Kengeri -  MBS",
+    "address": "No. 27, R.R.Layout,\nNagadevanahalli, Kengeri Ring Road,\nBangalore -  560056.",
+    "other": "Kengeri -  MBS\nNo. 27, R.R.Layout,\nNagadevanahalli, Kengeri Ring Road,\nBangalore -  560056.\n"
   },
   {
-    "other": "Nelamangala - MBS\nS.S Complex, Wevars Colony B.H Road,\nNelamangala Purasabe, Nelamangala Taluk,\nBangalore-562123.\nView Location\n\n"
+    "location": "Nelamangala -  MBS",
+    "address": "S.S Complex, Wevars Colony B.H Road,\nNelamangala Purasabe, Nelamangala Taluk,\nBangalore- 562123.",
+    "other": "Nelamangala -  MBS\nS.S Complex, Wevars Colony B.H Road,\nNelamangala Purasabe, Nelamangala Taluk,\nBangalore- 562123.\n"
   },
   {
-    "other": "Hosur Road - MBS\nSite no: No 6 & 7, Garebhave Palya,\nBommanahalli, Hosur Main Road,\nBangalore-560068.\nView Location\n\n"
+    "location": "Hosur Road -  MBS",
+    "address": "Site no: No 6 & 7, Garebhave Palya,\nBommanahalli, Hosur Main Road,\nBangalore- 560068.",
+    "other": "Hosur Road -  MBS\nSite no: No 6 & 7, Garebhave Palya,\nBommanahalli, Hosur Main Road,\nBangalore- 560068.\n"
   },
   {
-    "other": "Doddaballapur - MBS\nNo. 27-1-2-71 D-Cross, Near Ayyappa Swamy Temple,\nDodballapura Main Road, Doddaballapur City Municipal Council,\nBangalore Rural 561203.\nView Location\n\n"
+    "location": "Doddaballapur -  MBS",
+    "address": "No. 27- 1- 2- 71 D- Cross, Near Ayyappa Swamy Temple,\nDodballapura Main Road, Doddaballapur City Municipal Council,\nBangalore Rural 561203.",
+    "other": "Doddaballapur -  MBS\nNo. 27- 1- 2- 71 D- Cross, Near Ayyappa Swamy Temple,\nDodballapura Main Road, Doddaballapur City Municipal Council,\nBangalore Rural 561203.\n"
   },
   {
-    "other": "Puttur - MBS\nS.No-IV, 596, Shalimar Complex,\nYelmudy, Puttur-574201.\nDhakshina Kannada.\nView Location\n\n"
+    "location": "Puttur -  MBS",
+    "address": "S.No- IV, 596, Shalimar Complex,\nDhakshina Kannada.\n Yelmudy, Puttur- 574201.",
+    "other": "Puttur -  MBS\nS.No- IV, 596, Shalimar Complex,\nYelmudy, Puttur- 574201.\nDhakshina Kannada.\n"
   },
   {
-    "other": "Surathkal - MBS\nNo.150/1, Opp to Police Station,\nIddya Village, Surathkal,\nMangalore - 575014\nView Location\n\n"
+    "location": "Surathkal -  MBS",
+    "address": "No.150/1, Opp to Police Station,\nIddya Village, Surathkal,\nMangalore -  575014",
+    "other": "Surathkal -  MBS\nNo.150/1, Opp to Police Station,\nIddya Village, Surathkal,\nMangalore -  575014\n"
   },
   {
-    "other": "Chithradurga - MBS\nNo:275, RKR Plaza, BD Road,\nOpp Shankar Theatre, 4th Block,\nChitradurga - 577501.\nView Location\n\n"
+    "location": "Chithradurga -  MBS",
+    "address": "No:275, RKR Plaza, BD Road,\nOpp Shankar Theatre, 4th Block,\nChitradurga -  577501.",
+    "other": "Chithradurga -  MBS\nNo:275, RKR Plaza, BD Road,\nOpp Shankar Theatre, 4th Block,\nChitradurga -  577501.\n"
   },
   {
-    "other": "Bunts Hostel - MBS\nAbhiman Plaza,\nNear Bunts, Hostel Circle\nMangalore - 575003.\nView Location\n\n"
+    "location": "Bunts Hostel -  MBS",
+    "address": "Abhiman Plaza,\nNear Bunts, Hostel Circle\nMangalore -  575003.",
+    "other": "Bunts Hostel -  MBS\nAbhiman Plaza,\nNear Bunts, Hostel Circle\nMangalore -  575003.\n"
   },
   {
-    "other": "Bejai - MBS\nKovoor - Bejai Road,\nMangalore - 575004.\nView Location\n\n"
+    "location": "Bejai -  MBS",
+    "address": "Kovoor -  Bejai Road,\nMangalore -  575004.",
+    "other": "Bejai -  MBS\nKovoor -  Bejai Road,\nMangalore -  575004.\n"
   },
   {
-    "other": "Shimoga - MBS\nNo:894, Opp Church,\nB.H. Road,\nShimoga - 577201.\nView Location\n\n"
+    "location": "Shimoga -  MBS",
+    "address": "No:894, Opp Church,\nB.H. Road,\nShimoga -  577201.",
+    "other": "Shimoga -  MBS\nNo:894, Opp Church,\nB.H. Road,\nShimoga -  577201.\n"
   },
   {
-    "other": "Hassan - MBS\nN.R Circle , B.M. Road\nHassan - 573201.\nView Location\n\n"
+    "location": "Hassan -  MBS",
+    "address": "N.R Circle , B.M. Road\nHassan -  573201.",
+    "other": "Hassan -  MBS\nN.R Circle , B.M. Road\nHassan -  573201.\n"
   },
   {
-    "other": "Udupi - MBS\nNo:13-3-31, Devaraja Tower,\nOPP.Hotel Usha, Court Road,\nUdupi - 576101.\nView Location\n\n"
+    "location": "Udupi -  MBS",
+    "address": "No:13- 3- 31, Devaraja Tower,\nOPP.Hotel Usha, Court Road,\nUdupi -  576101.",
+    "other": "Udupi -  MBS\nNo:13- 3- 31, Devaraja Tower,\nOPP.Hotel Usha, Court Road,\nUdupi -  576101.\n"
   },
   {
-    "other": "Bhatkal - MBS\nNo.66, Main Road, “AL-TOUHEED\" Tower,\nNawayath Colony, Opposite Ribco Tiles,\nBhatkal-581320.\nView Location\n\n"
+    "location": "Bhatkal -  MBS",
+    "address": "No.66, Main Road, “AL- TOUHEED\" Tower,\nNawayath Colony, Opposite Ribco Tiles,\nBhatkal- 581320.",
+    "other": "Bhatkal -  MBS\nNo.66, Main Road, “AL- TOUHEED\" Tower,\nNawayath Colony, Opposite Ribco Tiles,\nBhatkal- 581320.\n"
   },
   {
-    "other": "Hubli 1 - MBS\nStation Road, Ganeshpet Corner\nHubli - 580020\nView Location\n\n"
+    "location": "Hubli 1 -  MBS",
+    "address": "Station Road, Ganeshpet Corner\nHubli -  580020",
+    "other": "Hubli 1 -  MBS\nStation Road, Ganeshpet Corner\nHubli -  580020\n"
   },
   {
-    "other": "Belgaum - MBS\nNo:2974, Khade Bazar,\nBelgaum - 590002.\nView Location\n\n"
+    "location": "Belgaum -  MBS",
+    "address": "No:2974, Khade Bazar,\nBelgaum -  590002.",
+    "other": "Belgaum -  MBS\nNo:2974, Khade Bazar,\nBelgaum -  590002.\n"
   },
   {
-    "other": "Chikmagalur - MBS\nChandra Towers, MG Road,\nOpp SKP Temple,\nChikmagalur - 577101.\nView Location\n\n"
+    "location": "Chikmagalur -  MBS",
+    "address": "Chandra Towers, MG Road,\nOpp SKP Temple,\nChikmagalur -  577101.",
+    "other": "Chikmagalur -  MBS\nChandra Towers, MG Road,\nOpp SKP Temple,\nChikmagalur -  577101.\n"
   },
   {
-    "other": "Kundapur - MBS\nNo:577/5 , V.M.K Towers,\nOPP.Geetanjali Theatre, Municipal Road,\nKundapur - 576201.\nView Location\n\n"
+    "location": "Kundapur -  MBS",
+    "address": "No:577/5 , V.M.K Towers,\nOPP.Geetanjali Theatre, Municipal Road,\nKundapur -  576201.",
+    "other": "Kundapur -  MBS\nNo:577/5 , V.M.K Towers,\nOPP.Geetanjali Theatre, Municipal Road,\nKundapur -  576201.\n"
   },
   {
-    "other": "Brahmavara - MBS\nSri Laksmi Arcade, Old Fish Market Road,\nNear Syndicate Bank, Chanthar Village,\nBramhavar, Udupi - 576213\nView Location\n\n"
+    "location": "Brahmavara -  MBS",
+    "address": "Sri Laksmi Arcade, Old Fish Market Road,\nNear Syndicate Bank, Chanthar Village,\nBramhavar, Udupi -  576213",
+    "other": "Brahmavara -  MBS\nSri Laksmi Arcade, Old Fish Market Road,\nNear Syndicate Bank, Chanthar Village,\nBramhavar, Udupi -  576213\n"
   },
   {
-    "other": "Mysore - MBS\nNo.58, Mahadeshwara Badavane\nVijayanagara, 2nd Stage,\nMysore - 570016\nView Location\n\n"
+    "location": "Mysore -  MBS",
+    "address": "No.58, Mahadeshwara Badavane\nVijayanagara, 2nd Stage,\nMysore -  570016",
+    "other": "Mysore -  MBS\nNo.58, Mahadeshwara Badavane\nVijayanagara, 2nd Stage,\nMysore -  570016\n"
   },
   {
-    "other": "Ramamurthynagar - MBS\nUnit of PIEL, No: 14,15, Khata No-204,\nRammurthy Nagar Main Road,\nBangalore-560016\nView Location\n\n"
+    "location": "Ramamurthynagar -  MBS",
+    "address": "Unit of PIEL, No: 14,15, Khata No- 204,\nRammurthy Nagar Main Road,\nBangalore- 560016",
+    "other": "Ramamurthynagar -  MBS\nUnit of PIEL, No: 14,15, Khata No- 204,\nRammurthy Nagar Main Road,\nBangalore- 560016\n"
   },
   {
-    "other": "BG Road 2- MBS\nUnit of PIEL, No.224 , Sri Nanjundeshwara Edifice,\nArakere Gate, I.I.M.B Post, Bannerghatta Main Road,\nBangalore-560076.\nView Location\n\n"
+    "location": "BG Road 2-  MBS",
+    "address": "Unit of PIEL, No.224 , Sri Nanjundeshwara Edifice,\nArakere Gate, I.I.M.B Post, Bannerghatta Main Road,\nBangalore- 560076.",
+    "other": "BG Road 2-  MBS\nUnit of PIEL, No.224 , Sri Nanjundeshwara Edifice,\nArakere Gate, I.I.M.B Post, Bannerghatta Main Road,\nBangalore- 560076.\n"
   },
   {
-    "other": "Byadarahalli - MBS\nUnit of PIEL, No. 07, Bhumika Edifice,\nByadarahalli, Magadi Main Road,\nBangalore - 560091.\nView Location\n\n"
+    "location": "Byadarahalli -  MBS",
+    "address": "Unit of PIEL, No. 07, Bhumika Edifice,\nByadarahalli, Magadi Main Road,\nBangalore -  560091.",
+    "other": "Byadarahalli -  MBS\nUnit of PIEL, No. 07, Bhumika Edifice,\nByadarahalli, Magadi Main Road,\nBangalore -  560091.\n"
   },
   {
-    "other": "RR Nagar 2- MBS\nNo.1139, Maruthi Complex, 3rd Stage BEML Layout,\nRajarajeswarinagar, Halagevaderahally Village\nKengeri Hobli, Bangalore-560098.\nView Location\n\n"
+    "location": "RR Nagar 2-  MBS",
+    "address": "No.1139, Maruthi Complex, 3rd Stage BEML Layout,\nRajarajeswarinagar, Halagevaderahally Village\nKengeri Hobli, Bangalore- 560098.",
+    "other": "RR Nagar 2-  MBS\nNo.1139, Maruthi Complex, 3rd Stage BEML Layout,\nRajarajeswarinagar, Halagevaderahally Village\nKengeri Hobli, Bangalore- 560098.\n"
   },
   {
-    "other": "Begur Road - MBS\nSri Renuka Yellamma Devi Arcade,\nNo.158/4, 2nd Main Hongasandra Village,\nBegur Main Road, Bangalore 560068.\nView Location\n\n"
+    "location": "Begur Road -  MBS",
+    "address": "Sri Renuka Yellamma Devi Arcade,\nNo.158/4, 2nd Main Hongasandra Village,\nBegur Main Road, Bangalore 560068.",
+    "other": "Begur Road -  MBS\nSri Renuka Yellamma Devi Arcade,\nNo.158/4, 2nd Main Hongasandra Village,\nBegur Main Road, Bangalore 560068.\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Rajajinagar\n# 330, Ground Floor, 6th Block Circle,\n\nDR Rajkumar Road, Rajajinagar,,\n\nBangalore - 560010.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Rajajinagar",
+    "address": "# 330, Ground Floor, 6th Block Circle,\n\nDR Rajkumar Road, Rajajinagar,,\n\nBangalore -  560010.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Rajajinagar\n# 330, Ground Floor, 6th Block Circle,\n\nDR Rajkumar Road, Rajajinagar,,\n\nBangalore -  560010.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Srinivasanagar\nNo. 14, 80 Feet Road,\n\nSrinivasa Nagar, B.S.K. 1st Stage\n\nBangalore – 560050.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Srinivasanagar",
+    "address": "No. 14, 80 Feet Road,\n\nSrinivasa Nagar, B.S.K. 1st Stage\n\nBangalore – 560050.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Srinivasanagar\nNo. 14, 80 Feet Road,\n\nSrinivasa Nagar, B.S.K. 1st Stage\n\nBangalore – 560050.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Byadarahalli\nNo. 21, Balaji Nagar, Byadarahalli,\n\nMagadi Main Road,\n\nBangalore – 560091\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Byadarahalli",
+    "address": "No. 21, Balaji Nagar, Byadarahalli,\n\nMagadi Main Road,\n\nBangalore – 560091",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Byadarahalli\nNo. 21, Balaji Nagar, Byadarahalli,\n\nMagadi Main Road,\n\nBangalore – 560091\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Kengeri\nShop No.4, Property No.847/83,\n\nSri Kanteshwara Complex, Mysore Road,\n\nKengeri, Bangalore – 560060\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kengeri",
+    "address": "Shop No.4, Property No.847/83,\n\nSri Kanteshwara Complex, Mysore Road,\n\nKengeri, Bangalore – 560060",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Kengeri\nShop No.4, Property No.847/83,\n\nSri Kanteshwara Complex, Mysore Road,\n\nKengeri, Bangalore – 560060\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Nandini Layout\nNo.3, SFHS Area,\n\nNandini Layout, Bangalore – 560096\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Nandini Layout",
+    "address": "No.3, SFHS Area,\n\nNandini Layout, Bangalore – 560096",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Nandini Layout\nNo.3, SFHS Area,\n\nNandini Layout, Bangalore – 560096\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Ramamurthy Nagar\nNo. 43, AHR Towers Rammurthy Nagar Main Road.\n\nRammurthy Nagar, Bangalore 560016.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Ramamurthy Nagar",
+    "address": "No. 43, AHR Towers Rammurthy Nagar Main Road.\n\nRammurthy Nagar, Bangalore 560016.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Ramamurthy Nagar\nNo. 43, AHR Towers Rammurthy Nagar Main Road.\n\nRammurthy Nagar, Bangalore 560016.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Vidyaranyapura\nNo. 443/2123/466, HMT Layout,\n\nVidyaranyapura, Bangalore – 560097.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Vidyaranyapura",
+    "address": "No. 443/2123/466, HMT Layout,\n\nVidyaranyapura, Bangalore – 560097.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Vidyaranyapura\nNo. 443/2123/466, HMT Layout,\n\nVidyaranyapura, Bangalore – 560097.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Sunkadakatte\n3rd Main Road, Sunkadakatte,\n\nVishwaneedam Post,\n\nBangalore – 560091\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Sunkadakatte",
+    "address": "3rd Main Road, Sunkadakatte,\n\nVishwaneedam Post,\n\nBangalore – 560091",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Sunkadakatte\n3rd Main Road, Sunkadakatte,\n\nVishwaneedam Post,\n\nBangalore – 560091\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - RR Nagar\nNo. 1158, Jawaharlal Nehru Road,\n\nBEML 3rd Stage,\n\nBangalore – 560098.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  RR Nagar",
+    "address": "No. 1158, Jawaharlal Nehru Road,\n\nBEML 3rd Stage,\n\nBangalore – 560098.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  RR Nagar\nNo. 1158, Jawaharlal Nehru Road,\n\nBEML 3rd Stage,\n\nBangalore – 560098.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - KHB Colony\nKHB Colony-No.88, Govindraj Nagar,\n\nMagadi Main Road,\n\nBangalore – 560040\n\nView Location\n\n"
+    "location": "Pai Mobiles -  KHB Colony",
+    "address": "KHB Colony- No.88, Govindraj Nagar,\n\nMagadi Main Road,\n\nBangalore – 560040",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  KHB Colony\nKHB Colony- No.88, Govindraj Nagar,\n\nMagadi Main Road,\n\nBangalore – 560040\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Gandhibazaar\n# 76/, Gandhi Bazaar Main Road,\n\nBasavanagudi, Bangalore - 560004.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Gandhibazaar",
+    "address": "# 76/, Gandhi Bazaar Main Road,\n\nBasavanagudi, Bangalore -  560004.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Gandhibazaar\n# 76/, Gandhi Bazaar Main Road,\n\nBasavanagudi, Bangalore -  560004.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - yelahanka\n# 952/A, Near Police Station,\n\nBB Road, Yelahanka,\n\nBangalore - 560064.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  yelahanka",
+    "address": "# 952/A, Near Police Station,\n\nBB Road, Yelahanka,\n\nBangalore -  560064.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  yelahanka\n# 952/A, Near Police Station,\n\nBB Road, Yelahanka,\n\nBangalore -  560064.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - BTM Layout\n388, 7th Cross, 7th Main\n\nBTM 2nd Stage,\n\nBangalore - 560076.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  BTM Layout",
+    "address": "388, 7th Cross, 7th Main\n\nBTM 2nd Stage,\n\nBangalore -  560076.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  BTM Layout\n388, 7th Cross, 7th Main\n\nBTM 2nd Stage,\n\nBangalore -  560076.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Channasandra\n# 860, Utharahalli Kengeri Main Road,\n\nChannasandra,\n\nBangalore - 560061.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Channasandra",
+    "address": "# 860, Utharahalli Kengeri Main Road,\n\nChannasandra,\n\nBangalore -  560061.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Channasandra\n# 860, Utharahalli Kengeri Main Road,\n\nChannasandra,\n\nBangalore -  560061.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Hegganahalli\nShop No.180, Hegganahalli Main Road\n\nVishwaneedam Post,\n\nBangalore - 560058.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Hegganahalli",
+    "address": "Shop No.180, Hegganahalli Main Road\n\nVishwaneedam Post,\n\nBangalore -  560058.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Hegganahalli\nShop No.180, Hegganahalli Main Road\n\nVishwaneedam Post,\n\nBangalore -  560058.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Kumaraswamy Layout\n# 1629, 50 Ft Road,\n\nKumaraswamy Layout,\n\nBangalore - 560078.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kumaraswamy Layout",
+    "address": "# 1629, 50 Ft Road,\n\nKumaraswamy Layout,\n\nBangalore -  560078.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Kumaraswamy Layout\n# 1629, 50 Ft Road,\n\nKumaraswamy Layout,\n\nBangalore -  560078.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Malleshwaram\n# 37, 3rd Cross, Sampige Road,\n\nMalleshwaram,\n\nBangalore - 560003.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Malleshwaram",
+    "address": "# 37, 3rd Cross, Sampige Road,\n\nMalleshwaram,\n\nBangalore -  560003.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Malleshwaram\n# 37, 3rd Cross, Sampige Road,\n\nMalleshwaram,\n\nBangalore -  560003.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Maruthinagar\n# 2002/03, Shop No.1, 20th Main,\n\nBTM 1st Stage, Maruthi Nagar,\n\nBangalore - 560029\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Maruthinagar",
+    "address": "# 2002/03, Shop No.1, 20th Main,\n\nBTM 1st Stage, Maruthi Nagar,\n\nBangalore -  560029",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Maruthinagar\n# 2002/03, Shop No.1, 20th Main,\n\nBTM 1st Stage, Maruthi Nagar,\n\nBangalore -  560029\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Thippasandra\n# 86/1, Shop No.6, Ground Floor,\n\n1st Cross, 2nd Main, New Thippasandra,\n\nBangalore -560075.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Thippasandra",
+    "address": "# 86/1, Shop No.6, Ground Floor,\n\n1st Cross, 2nd Main, New Thippasandra,\n\nBangalore - 560075.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Thippasandra\n# 86/1, Shop No.6, Ground Floor,\n\n1st Cross, 2nd Main, New Thippasandra,\n\nBangalore - 560075.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Utharahalli\n# 10, Ground Floor, KSRTC Layout,\n\nUtharahalli Main Road,\n\nUtharahalli, Bangalore - 560061.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Utharahalli",
+    "address": "# 10, Ground Floor, KSRTC Layout,\n\nUtharahalli Main Road,\n\nUtharahalli, Bangalore -  560061.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Utharahalli\n# 10, Ground Floor, KSRTC Layout,\n\nUtharahalli Main Road,\n\nUtharahalli, Bangalore -  560061.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Koramangala\nBBMP PID No.68-1-S2, 80 Feet Road,\n\n1st Block, Koramangala,\n\nBangalore-560034.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Koramangala",
+    "address": "BBMP PID No.68- 1- S2, 80 Feet Road,\n\n1st Block, Koramangala,\n\nBangalore- 560034.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Koramangala\nBBMP PID No.68- 1- S2, 80 Feet Road,\n\n1st Block, Koramangala,\n\nBangalore- 560034.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Gottigere\nNo.2, VP Katha No.301, Gottigere Village,\n\nUttarahalli Hobli, Bangalore South Taluk,\n\nBangalore-560083.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Gottigere",
+    "address": "No.2, VP Katha No.301, Gottigere Village,\n\nUttarahalli Hobli, Bangalore South Taluk,\n\nBangalore- 560083.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Gottigere\nNo.2, VP Katha No.301, Gottigere Village,\n\nUttarahalli Hobli, Bangalore South Taluk,\n\nBangalore- 560083.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Konanakunte\nNo. 177, \"Prakruthi Arcade”, Anjanapura,\n\nBBMP Ward No.196, Amruthnagar Main Road,\n\nKonanakunte, Bangalore-560061.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Konanakunte",
+    "address": "No. 177, \"Prakruthi Arcade”, Anjanapura,\n\nBBMP Ward No.196, Amruthnagar Main Road,\n\nKonanakunte, Bangalore- 560061.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Konanakunte\nNo. 177, \"Prakruthi Arcade”, Anjanapura,\n\nBBMP Ward No.196, Amruthnagar Main Road,\n\nKonanakunte, Bangalore- 560061.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Jayanagar\nNo.23/1, Old No. 1855, 40th ‘A’ Cross,\n\n9th Block, BBMP Ward No.170,\n\nJayanagar East, Bangalore - 560069\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Jayanagar",
+    "address": "No.23/1, Old No. 1855, 40th ‘A’ Cross,\n\n9th Block, BBMP Ward No.170,\n\nJayanagar East, Bangalore -  560069",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Jayanagar\nNo.23/1, Old No. 1855, 40th ‘A’ Cross,\n\n9th Block, BBMP Ward No.170,\n\nJayanagar East, Bangalore -  560069\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Malleshwaram2\nNo.284,2nd Main Road, Sampige Road,\n\nBetween 17th & 18th Cross, BBMP Ward No.45,\n\nMalleshwaram, Bangalore - 560003.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Malleshwaram2",
+    "address": "No.284,2nd Main Road, Sampige Road,\n\nBetween 17th & 18th Cross, BBMP Ward No.45,\n\nMalleshwaram, Bangalore -  560003.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Malleshwaram2\nNo.284,2nd Main Road, Sampige Road,\n\nBetween 17th & 18th Cross, BBMP Ward No.45,\n\nMalleshwaram, Bangalore -  560003.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Subramanyapura\nNo.36, Vaishnavi Layout, Near Vaishnavi Theatre,\n\nBBMP Ward No.184, Subramanyapura Main Road,\n\nUttarahalli , Bangalore-560061.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Subramanyapura",
+    "address": "No.36, Vaishnavi Layout, Near Vaishnavi Theatre,\n\nBBMP Ward No.184, Subramanyapura Main Road,\n\nUttarahalli , Bangalore- 560061.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Subramanyapura\nNo.36, Vaishnavi Layout, Near Vaishnavi Theatre,\n\nBBMP Ward No.184, Subramanyapura Main Road,\n\nUttarahalli , Bangalore- 560061.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - JP Nagar\nNo.4&5 ,15th Cross, Sarakki Gate,\n\nNear J.P Nagar Metro Station,\n\nKanakapura Main Road, BBMP ward No.178,\n\nJ.P Nagar , Bangalore-560078\n\nView Location\n\n"
+    "location": "Pai Mobiles -  JP Nagar",
+    "address": "No.4&5 ,15th Cross, Sarakki Gate,\n\nNear J.P Nagar Metro Station,\n\nKanakapura Main Road, BBMP ward No.178,\n\nJ.P Nagar , Bangalore- 560078",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  JP Nagar\nNo.4&5 ,15th Cross, Sarakki Gate,\n\nNear J.P Nagar Metro Station,\n\nKanakapura Main Road, BBMP ward No.178,\n\nJ.P Nagar , Bangalore- 560078\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - UTTARAHALLI\n# 10, Ground Floor,\n\nKSRTC Layout, Utharahalli Main Road,\n\nUtharahalli, Bangalore - 560061\n\nView Location\n\n"
+    "location": "Pai Mobiles -  UTTARAHALLI",
+    "address": "# 10, Ground Floor,\n\nKSRTC Layout, Utharahalli Main Road,\n\nUtharahalli, Bangalore -  560061",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  UTTARAHALLI\n# 10, Ground Floor,\n\nKSRTC Layout, Utharahalli Main Road,\n\nUtharahalli, Bangalore -  560061\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Yelahanka NT\nNo.2338, 16th \"B\" Main, Near New Town Bus Stand,\n\nBBMP ward No.03,\n\nYelahanka New Town, Bangalore 560064\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Yelahanka NT",
+    "address": "No.2338, 16th \"B\" Main, Near New Town Bus Stand,\n\nBBMP ward No.03,\n\nYelahanka New Town, Bangalore 560064",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Yelahanka NT\nNo.2338, 16th \"B\" Main, Near New Town Bus Stand,\n\nBBMP ward No.03,\n\nYelahanka New Town, Bangalore 560064\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Kengeri2\nNo.941, 1st Main Road, 6th Cross,\n\nNear Andhra Bank, Kengeri Satellite Town,\n\nBBMP ward No.159, Bangalore - 560060.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kengeri2",
+    "address": "No.941, 1st Main Road, 6th Cross,\n\nNear Andhra Bank, Kengeri Satellite Town,\n\nBBMP ward No.159, Bangalore -  560060.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Kengeri2\nNo.941, 1st Main Road, 6th Cross,\n\nNear Andhra Bank, Kengeri Satellite Town,\n\nBBMP ward No.159, Bangalore -  560060.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Anekal\nShop No.1, M.R Complex, Ground Floor,\n\nMirza Road, Newpet, Anekal\n\nBangalore - 562106\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Anekal",
+    "address": "Shop No.1, M.R Complex, Ground Floor,\n\nMirza Road, Newpet, Anekal\n\nBangalore -  562106",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Anekal\nShop No.1, M.R Complex, Ground Floor,\n\nMirza Road, Newpet, Anekal\n\nBangalore -  562106\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Bannerghatta\nNo.92, Ground Floor, Bannerghatta Village,\n\nJigani Hobli, Anekal Taluk,\n\nBangalore - 560083\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Bannerghatta",
+    "address": "No.92, Ground Floor, Bannerghatta Village,\n\nJigani Hobli, Anekal Taluk,\n\nBangalore -  560083",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Bannerghatta\nNo.92, Ground Floor, Bannerghatta Village,\n\nJigani Hobli, Anekal Taluk,\n\nBangalore -  560083\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Jigani\nNo.365/296, Junjar No.295, Plot No.CA2,\n\nJigani Industrial Area, 1st Phase, Sy No.168,\n\nJigani Village and Hobli,\n\nBangalore Urban - 562106\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Jigani",
+    "address": "No.365/296, Junjar No.295, Plot No.CA2,\n\nJigani Industrial Area, 1st Phase, Sy No.168,\n\nJigani Village and Hobli,\n\nBangalore Urban -  562106",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Jigani\nNo.365/296, Junjar No.295, Plot No.CA2,\n\nJigani Industrial Area, 1st Phase, Sy No.168,\n\nJigani Village and Hobli,\n\nBangalore Urban -  562106\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Attibele\nShop No 7, Krishnappa Complex,\n\nAttibele, Attibele Circle,\n\nAnekal Taluk, Bangalore - 562107.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Attibele",
+    "address": "Shop No 7, Krishnappa Complex,\n\nAttibele, Attibele Circle,\n\nAnekal Taluk, Bangalore -  562107.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Attibele\nShop No 7, Krishnappa Complex,\n\nAttibele, Attibele Circle,\n\nAnekal Taluk, Bangalore -  562107.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - HSR\nNo 256, 5th Main, Sector 6,\n\nHSR Layout Bangalore 560102.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  HSR",
+    "address": "No 256, 5th Main, Sector 6,\n\nHSR Layout Bangalore 560102.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  HSR\nNo 256, 5th Main, Sector 6,\n\nHSR Layout Bangalore 560102.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Basaveshwaranagar\nShop No. 4, (Old No.HIG-19), 60 Feet Road,\n\nK.H.B. Colony 2nd Stage,\n\nBasaveshwaranagar, BANGALORE – 560079\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Basaveshwaranagar",
+    "address": "Shop No. 4, (Old No.HIG- 19), 60 Feet Road,\n\nK.H.B. Colony 2nd Stage,\n\nBasaveshwaranagar, BANGALORE – 560079",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Basaveshwaranagar\nShop No. 4, (Old No.HIG- 19), 60 Feet Road,\n\nK.H.B. Colony 2nd Stage,\n\nBasaveshwaranagar, BANGALORE – 560079\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Navarang\nShop No 14/1, 20th Cross Road,\n\n1st block, M.K.K.Road, Rajajinagar,\n\nBangalore - 560010.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Navarang",
+    "address": "Shop No 14/1, 20th Cross Road,\n\n1st block, M.K.K.Road, Rajajinagar,\n\nBangalore -  560010.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Navarang\nShop No 14/1, 20th Cross Road,\n\n1st block, M.K.K.Road, Rajajinagar,\n\nBangalore -  560010.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Kothnur\n# 102/5 henur Bagalur Main Road\n\nByrathi Bangalore 560077\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kothnur",
+    "address": "# 102/5 henur Bagalur Main Road\n\nByrathi Bangalore 560077",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Kothnur\n# 102/5 henur Bagalur Main Road\n\nByrathi Bangalore 560077\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Kammanahalli\nNo.50/2, Pooja Arcade, Below The Bangalore City Co-Operative Bank Ltd,\n\nKamanahalli Main Road, St.Thomas Town Post,\n\nHRBR Lyt, Bangalore - 560084\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kammanahalli",
+    "address": "No.50/2, Pooja Arcade, Below The Bangalore City Co- Operative Bank Ltd,\n\nKamanahalli Main Road, St.Thomas Town Post,\n\nHRBR Lyt, Bangalore -  560084",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Kammanahalli\nNo.50/2, Pooja Arcade, Below The Bangalore City Co- Operative Bank Ltd,\n\nKamanahalli Main Road, St.Thomas Town Post,\n\nHRBR Lyt, Bangalore -  560084\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles – Electronic City\nSurvey No.30/2, Near Suraksha Maruti Showroom,\n\nOpposite Infosys, Krishna Reddy Layout, Konnapana Agarhara,\n\nElectronic City Main Road, Bangalore - 560100\n\nView Location\n\n"
+    "location": "Pai Mobiles – Electronic City",
+    "address": "Survey No.30/2, Near Suraksha Maruti Showroom,\n\nOpposite Infosys, Krishna Reddy Layout, Konnapana Agarhara,\n\nElectronic City Main Road, Bangalore -  560100",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles – Electronic City\nSurvey No.30/2, Near Suraksha Maruti Showroom,\n\nOpposite Infosys, Krishna Reddy Layout, Konnapana Agarhara,\n\nElectronic City Main Road, Bangalore -  560100\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Mysore\n# 51A, D.Devaraj Urs Road,\n\nMYSORE - 570024.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Mysore",
+    "address": "# 51A, D.Devaraj Urs Road,\n\nMYSORE -  570024.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Mysore\n# 51A, D.Devaraj Urs Road,\n\nMYSORE -  570024.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Mandya\n# 1125/1/2, V V Road,\n\nOpp SBM Bank,\n\nMandya - 571401\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Mandya",
+    "address": "# 1125/1/2, V V Road,\n\nOpp SBM Bank,\n\nMandya -  571401",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Mandya\n# 1125/1/2, V V Road,\n\nOpp SBM Bank,\n\nMandya -  571401\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Mysore2\nNo.04, “R.K Plaza” Bearing Municipal No.854,\n\nNew Kantharaja Urs Road,\n\nMysore-570009.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Mysore2",
+    "address": "No.04, “R.K Plaza” Bearing Municipal No.854,\n\nNew Kantharaja Urs Road,\n\nMysore- 570009.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Mysore2\nNo.04, “R.K Plaza” Bearing Municipal No.854,\n\nNew Kantharaja Urs Road,\n\nMysore- 570009.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Ramanagar\nNo.175/E, Ground Floor,\n\nChandrakanth Complex,\n\nB.M Road, Ramanagara-562159.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Ramanagar",
+    "address": "No.175/E, Ground Floor,\n\nChandrakanth Complex,\n\nB.M Road, Ramanagara- 562159.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Ramanagar\nNo.175/E, Ground Floor,\n\nChandrakanth Complex,\n\nB.M Road, Ramanagara- 562159.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Davanagere\nNo.60/1 & 2,3, P.J. Extension,\n\n2nd Main Road, A.V.K College Road,\n\nDavanagare - 577002\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Davanagere",
+    "address": "No.60/1 & 2,3, P.J. Extension,\n\n2nd Main Road, A.V.K College Road,\n\nDavanagare -  577002",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Davanagere\nNo.60/1 & 2,3, P.J. Extension,\n\n2nd Main Road, A.V.K College Road,\n\nDavanagare -  577002\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Challakere\nSri Siddeshwara Complex, Bellary Main Road,\n\nNear Santhosh Medical, Challakere,\n\nChitradurga - 577522\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Challakere",
+    "address": "Sri Siddeshwara Complex, Bellary Main Road,\n\nNear Santhosh Medical, Challakere,\n\nChitradurga -  577522",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Challakere\nSri Siddeshwara Complex, Bellary Main Road,\n\nNear Santhosh Medical, Challakere,\n\nChitradurga -  577522\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Tumkur\nShop No.6, Ground Floor, Ilahii Store,\n\nOpposite Jayadeva Hostel,\n\nB.H.Road, Tumkur - 572101\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Tumkur",
+    "address": "Shop No.6, Ground Floor, Ilahii Store,\n\nOpposite Jayadeva Hostel,\n\nB.H.Road, Tumkur -  572101",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Tumkur\nShop No.6, Ground Floor, Ilahii Store,\n\nOpposite Jayadeva Hostel,\n\nB.H.Road, Tumkur -  572101\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - ARASIKERE\nNo.191, 14087(5642),\n\nNear Karnataka Foot Wear Shop,\n\nOpposite Canara Bank, B.H Road\n\nArasikere, Hassan District-573103\n\nView Location\n\n"
+    "location": "Pai Mobiles -  ARASIKERE",
+    "address": "No.191, 14087(5642),\n\nNear Karnataka Foot Wear Shop,\n\nOpposite Canara Bank, B.H Road\n\nArasikere, Hassan District- 573103",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  ARASIKERE\nNo.191, 14087(5642),\n\nNear Karnataka Foot Wear Shop,\n\nOpposite Canara Bank, B.H Road\n\nArasikere, Hassan District- 573103\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - TARIKERE\nNo.4601/4460, Sir Malatesha Comlex,\n\nB.H Road, Marathi Madhe,\n\nOM Circle, Tarikere\n\nChikmagalore District-577228\n\nView Location\n\n"
+    "location": "Pai Mobiles -  TARIKERE",
+    "address": "No.4601/4460, Sir Malatesha Comlex,\n\nB.H Road, Marathi Madhe,\n\nOM Circle, Tarikere\n\nChikmagalore District- 577228",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  TARIKERE\nNo.4601/4460, Sir Malatesha Comlex,\n\nB.H Road, Marathi Madhe,\n\nOM Circle, Tarikere\n\nChikmagalore District- 577228\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Hiriyur\nSrivari complex, Opposite to Balaji Nursing Home ,\n\nNeharu Circle, Main Road Hiriyuru,\n\nChitradurga District - 577598\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Hiriyur",
+    "address": "Srivari complex, Opposite to Balaji Nursing Home ,\n\nNeharu Circle, Main Road Hiriyuru,\n\nChitradurga District -  577598",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Hiriyur\nSrivari complex, Opposite to Balaji Nursing Home ,\n\nNeharu Circle, Main Road Hiriyuru,\n\nChitradurga District -  577598\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Ranebennur\nNo.15/7 and 15/8, K.I.J Complex,\n\nOpposite KEB Office, P.B Road,\n\nRanebennur, Haveri District -581115\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Ranebennur",
+    "address": "No.15/7 and 15/8, K.I.J Complex,\n\nOpposite KEB Office, P.B Road,\n\nRanebennur, Haveri District - 581115",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Ranebennur\nNo.15/7 and 15/8, K.I.J Complex,\n\nOpposite KEB Office, P.B Road,\n\nRanebennur, Haveri District - 581115\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Malavalli\nSri Venkateshwara Complex,\n\nMysore Road, Malavalli,\n\nMandya District - 571430\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Malavalli",
+    "address": "Sri Venkateshwara Complex,\n\nMysore Road, Malavalli,\n\nMandya District -  571430",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Malavalli\nSri Venkateshwara Complex,\n\nMysore Road, Malavalli,\n\nMandya District -  571430\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Shikaripura\nNo.299/310/310 , Ulli Shivappa Complex,\n\nShikaripura Road, Opposite New Library Shikaripura,\n\nShivamogga District - 577427\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Shikaripura",
+    "address": "No.299/310/310 , Ulli Shivappa Complex,\n\nShikaripura Road, Opposite New Library Shikaripura,\n\nShivamogga District -  577427",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Shikaripura\nNo.299/310/310 , Ulli Shivappa Complex,\n\nShikaripura Road, Opposite New Library Shikaripura,\n\nShivamogga District -  577427\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Kolar\nKaaba Complex Compound,\n\nM B road Kolar 563101\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kolar",
+    "address": "Kaaba Complex Compound,\n\nM B road Kolar 563101",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Kolar\nKaaba Complex Compound,\n\nM B road Kolar 563101\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Hubli1\nNo.1, Ground Floor, Satellite Complex\n\nKopikar Road, Hubli - 580020\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Hubli1",
+    "address": "No.1, Ground Floor, Satellite Complex\n\nKopikar Road, Hubli -  580020",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Hubli1\nNo.1, Ground Floor, Satellite Complex\n\nKopikar Road, Hubli -  580020\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Kadur\nShop No.1 and 2, Ground Floor,\n\nEmporium Center, Railway Station Road,\n\nNear Bus Stand Kadur, Chikmagalure District - 577548\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kadur",
+    "address": "Shop No.1 and 2, Ground Floor,\n\nEmporium Center, Railway Station Road,\n\nNear Bus Stand Kadur, Chikmagalure District -  577548",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Kadur\nShop No.1 and 2, Ground Floor,\n\nEmporium Center, Railway Station Road,\n\nNear Bus Stand Kadur, Chikmagalure District -  577548\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Harihara\nLadwa Complex,\n\nOpposite to CMC Office P.B Road Harihara,\n\nDavanagere District - 577601\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Harihara",
+    "address": "Ladwa Complex,\n\nOpposite to CMC Office P.B Road Harihara,\n\nDavanagere District -  577601",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Harihara\nLadwa Complex,\n\nOpposite to CMC Office P.B Road Harihara,\n\nDavanagere District -  577601\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Srinivasapura\nShop No.MPS182, M.G Road,\n\nSrinivaspura, Kolar District - 563135.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Srinivasapura",
+    "address": "Shop No.MPS182, M.G Road,\n\nSrinivaspura, Kolar District -  563135.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Srinivasapura\nShop No.MPS182, M.G Road,\n\nSrinivaspura, Kolar District -  563135.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Mulbagal\nBharath Agricultural Works M.C Road, ,\n\nNear Ambedkar Circle Mulbagal,\n\nKolar District - 563131.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Mulbagal",
+    "address": "Bharath Agricultural Works M.C Road, ,\n\nNear Ambedkar Circle Mulbagal,\n\nKolar District -  563131.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Mulbagal\nBharath Agricultural Works M.C Road, ,\n\nNear Ambedkar Circle Mulbagal,\n\nKolar District -  563131.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Indi\n# 18 Bijapur road, near siddeshwar Bhank Hattir INDI\n\nVijaypura Dist Karnataka 586209.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Indi",
+    "address": "# 18 Bijapur road, near siddeshwar Bhank Hattir INDI\n\nVijaypura Dist Karnataka 586209.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Indi\n# 18 Bijapur road, near siddeshwar Bhank Hattir INDI\n\nVijaypura Dist Karnataka 586209.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Bagalkot\nWard # 11 # 234/18\n\nGuru Krupa Building Extention area\n\nBagalkot 587101\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Bagalkot",
+    "address": "Ward # 11 # 234/18\n\nGuru Krupa Building Extention area\n\nBagalkot 587101",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Bagalkot\nWard # 11 # 234/18\n\nGuru Krupa Building Extention area\n\nBagalkot 587101\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Sindagi\nA.H.CHIKKODI, BASAVANAGAR,\n\nVIJAYAPURA MAINROAD,\n\nSINDAGI - 586128\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Sindagi",
+    "address": "A.H.CHIKKODI, BASAVANAGAR,\n\nVIJAYAPURA MAINROAD,\n\nSINDAGI -  586128",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Sindagi\nA.H.CHIKKODI, BASAVANAGAR,\n\nVIJAYAPURA MAINROAD,\n\nSINDAGI -  586128\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Yadgir\nGiriraj complex, Subhash Chowk,\n\nYadgir - 585202\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Yadgir",
+    "address": "Giriraj complex, Subhash Chowk,\n\nYadgir -  585202",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Yadgir\nGiriraj complex, Subhash Chowk,\n\nYadgir -  585202\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Bijapur\n# 193 Baheti Complex, S.S. road\n\nMahaveer Road cross Bijapur\n\nKarnataka - 586101\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Bijapur",
+    "address": "# 193 Baheti Complex, S.S. road\n\nMahaveer Road cross Bijapur\n\nKarnataka -  586101",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Bijapur\n# 193 Baheti Complex, S.S. road\n\nMahaveer Road cross Bijapur\n\nKarnataka -  586101\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Bijapur2\nSNo 23/1 &24E plot no 41&46\n\nLingadi Gudi road, Beside signiture mall,\n\nBijapur 586103\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Bijapur2",
+    "address": "SNo 23/1 &24E plot no 41&46\n\nLingadi Gudi road, Beside signiture mall,\n\nBijapur 586103",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Bijapur2\nSNo 23/1 &24E plot no 41&46\n\nLingadi Gudi road, Beside signiture mall,\n\nBijapur 586103\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Chintamani\n#29 Double Road, M.G Road,\n\ncorner Chinthamani - 563125\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Chintamani",
+    "address": "#29 Double Road, M.G Road,\n\ncorner Chinthamani -  563125",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Chintamani\n#29 Double Road, M.G Road,\n\ncorner Chinthamani -  563125\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Mandya2\n#D3/195/163/1, Vidyanagar,\n\n100 feet Road, Mandya pin 571401\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Mandya2",
+    "address": "#D3/195/163/1, Vidyanagar,\n\n100 feet Road, Mandya pin 571401",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Mandya2\n#D3/195/163/1, Vidyanagar,\n\n100 feet Road, Mandya pin 571401\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Gadag\n#467, Near Old Kamat Hotel,\n\nStation Road, Gadag - 582101\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Gadag",
+    "address": "#467, Near Old Kamat Hotel,\n\nStation Road, Gadag -  582101",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Gadag\n#467, Near Old Kamat Hotel,\n\nStation Road, Gadag -  582101\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Gulbarga\nR.N.Pawar tower shope No2,\n\nSuper market. Kalburgi - 585101\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Gulbarga",
+    "address": "R.N.Pawar tower shope No2,\n\nSuper market. Kalburgi -  585101",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Gulbarga\nR.N.Pawar tower shope No2,\n\nSuper market. Kalburgi -  585101\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Gangavati\nPlot No. 15-2/22 & 55/2-15-68,\n\nL.G Road, Near Jai Hanuman Electricals,\n\nGangavati, Koppal District - 583227\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Gangavati",
+    "address": "Plot No. 15- 2/22 & 55/2- 15- 68,\n\nL.G Road, Near Jai Hanuman Electricals,\n\nGangavati, Koppal District -  583227",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Gangavati\nPlot No. 15- 2/22 & 55/2- 15- 68,\n\nL.G Road, Near Jai Hanuman Electricals,\n\nGangavati, Koppal District -  583227\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Koppal\nAgadi Complex, Near Vijaya Bank,\n\nHospet Road, Ganji Circle,\n\nKoppal District - 583231\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Koppal",
+    "address": "Agadi Complex, Near Vijaya Bank,\n\nHospet Road, Ganji Circle,\n\nKoppal District -  583231",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Koppal\nAgadi Complex, Near Vijaya Bank,\n\nHospet Road, Ganji Circle,\n\nKoppal District -  583231\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Gauribidanur\nNo.546/506, Near Krishna Grand Hotel,\n\nB.H Road, Gauribidanur,\n\nChikkaballapura District - 561208\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Gauribidanur",
+    "address": "No.546/506, Near Krishna Grand Hotel,\n\nB.H Road, Gauribidanur,\n\nChikkaballapura District -  561208",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Gauribidanur\nNo.546/506, Near Krishna Grand Hotel,\n\nB.H Road, Gauribidanur,\n\nChikkaballapura District -  561208\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Raichur\nSLV Tourist Hotel Complex,\n\nStation Road, Raichur District - 584101\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Raichur",
+    "address": "SLV Tourist Hotel Complex,\n\nStation Road, Raichur District -  584101",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Raichur\nSLV Tourist Hotel Complex,\n\nStation Road, Raichur District -  584101\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Athani\nNilare Complex, Shivayogi Circle,\n\nAthani Miraj Road, Athani Taluk,\n\nBelgaum District - 591304.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Athani",
+    "address": "Nilare Complex, Shivayogi Circle,\n\nAthani Miraj Road, Athani Taluk,\n\nBelgaum District -  591304.",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Athani\nNilare Complex, Shivayogi Circle,\n\nAthani Miraj Road, Athani Taluk,\n\nBelgaum District -  591304.\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Bangarpet\n# 1 Ground Floor, Near ICICI Bank,\n\nOld Santhe Mayidhana,\n\nKolar Road Bangarpet - 563114\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Bangarpet",
+    "address": "# 1 Ground Floor, Near ICICI Bank,\n\nOld Santhe Mayidhana,\n\nKolar Road Bangarpet -  563114",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Bangarpet\n# 1 Ground Floor, Near ICICI Bank,\n\nOld Santhe Mayidhana,\n\nKolar Road Bangarpet -  563114\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Bagalkot2\nPlot No. 49/2, 19th Cross\n\nEngineering College Main Road, Vidyagiri,\n\nBagalkot District - 587102\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Bagalkot2",
+    "address": "Plot No. 49/2, 19th Cross\n\nEngineering College Main Road, Vidyagiri,\n\nBagalkot District -  587102",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Bagalkot2\nPlot No. 49/2, 19th Cross\n\nEngineering College Main Road, Vidyagiri,\n\nBagalkot District -  587102\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Bellary\nPresident Bellary Dist Ambedkar Association Bellary,\n\nDouble Road, Near Old Bus stand\n\nBellary District - 583101\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Bellary",
+    "address": "President Bellary Dist Ambedkar Association Bellary,\n\nDouble Road, Near Old Bus stand\n\nBellary District -  583101",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Bellary\nPresident Bellary Dist Ambedkar Association Bellary,\n\nDouble Road, Near Old Bus stand\n\nBellary District -  583101\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Hospet\nNo. 4/516, Shop No.567\n\nOpposite City Court, College Road,\n\nHospete, Bellary District - 583201\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Hospet",
+    "address": "No. 4/516, Shop No.567\n\nOpposite City Court, College Road,\n\nHospete, Bellary District -  583201",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Hospet\nNo. 4/516, Shop No.567\n\nOpposite City Court, College Road,\n\nHospete, Bellary District -  583201\n\n"
   },
   {
-    "other": "\n\nRest of Karnataka MBS\nPai Mobiles - Belgaum\nNo.1742, Matchwell Building, Hutatma Chowk\n\nNear Tata Show Room, Kirloskar Road,\n\nBelgaum District - 590001\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Belgaum",
+    "address": "No.1742, Matchwell Building, Hutatma Chowk\n\nNear Tata Show Room, Kirloskar Road,\n\nBelgaum District -  590001",
+    "other": "\n\nRest of Karnataka MBS\nPai Mobiles -  Belgaum\nNo.1742, Matchwell Building, Hutatma Chowk\n\nNear Tata Show Room, Kirloskar Road,\n\nBelgaum District -  590001\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nAttapur - MBS\nPlot No.96, MCH NO. 4-6-69/1A,\n\nAttapur, Rajendra Nagar, Hyderabad - 500048.\n\nView Location\n\n"
+    "location": "Attapur -  MBS",
+    "address": "Plot No.96, MCH NO. 4- 6- 69/1A,\n\nAttapur, Rajendra Nagar, Hyderabad -  500048.",
+    "other": "\n\nTelangana -  MBS\nAttapur -  MBS\nPlot No.96, MCH NO. 4- 6- 69/1A,\n\nAttapur, Rajendra Nagar, Hyderabad -  500048.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nAttapur - Samsung Plaza\n# 4-6-236, ATTAPUR RING ROAD,\n\nPILLER NO 136 ATTAPUR,\n\nHYDERBAD - 500048\n\nView Location\n\n"
+    "location": "Attapur -  Samsung Plaza",
+    "address": "# 4- 6- 236, ATTAPUR RING ROAD,\n\nPILLER NO 136 ATTAPUR,\n\nHYDERBAD -  500048",
+    "other": "\n\nTelangana -  MBS\nAttapur -  Samsung Plaza\n# 4- 6- 236, ATTAPUR RING ROAD,\n\nPILLER NO 136 ATTAPUR,\n\nHYDERBAD -  500048\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nBoduppal - MBS\nPlot no:-19, Survey No:-102,\n\nOm Vihar Colony, Near Boduppal Depot,\n\nGhatkesar Mandal, R R District, Hyderabad - 50003\n\nView Location\n\n"
+    "location": "Boduppal -  MBS",
+    "address": "Plot no:- 19, Survey No:- 102,\n\nOm Vihar Colony, Near Boduppal Depot,\n\nGhatkesar Mandal, R R District, Hyderabad -  50003",
+    "other": "\n\nTelangana -  MBS\nBoduppal -  MBS\nPlot no:- 19, Survey No:- 102,\n\nOm Vihar Colony, Near Boduppal Depot,\n\nGhatkesar Mandal, R R District, Hyderabad -  50003\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nBN Reddy Nagar - MBS\nPlot No.6 & 7, Chaitanya Nagar,\n\nTeachers Colony, Sagar Road, B.N. Reddy Nagar\n\nHyderabad - 500079\n\nView Location\n\n"
+    "location": "BN Reddy Nagar -  MBS",
+    "address": "Plot No.6 & 7, Chaitanya Nagar,\n\nTeachers Colony, Sagar Road, B.N. Reddy Nagar\n\nHyderabad -  500079",
+    "other": "\n\nTelangana -  MBS\nBN Reddy Nagar -  MBS\nPlot No.6 & 7, Chaitanya Nagar,\n\nTeachers Colony, Sagar Road, B.N. Reddy Nagar\n\nHyderabad -  500079\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nKarmanghat - MBS\n#8-8-393/7/GF, Greenpark Colony,\n\nOpp Jeevan Hospital, Sagar Road,\n\nKarmanghat, Hyderabad – 500035\n\nView Location\n\n"
+    "location": "Karmanghat -  MBS",
+    "address": "#8- 8- 393/7/GF, Greenpark Colony,\n\nOpp Jeevan Hospital, Sagar Road,\n\nKarmanghat, Hyderabad – 500035",
+    "other": "\n\nTelangana -  MBS\nKarmanghat -  MBS\n#8- 8- 393/7/GF, Greenpark Colony,\n\nOpp Jeevan Hospital, Sagar Road,\n\nKarmanghat, Hyderabad – 500035\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nNizampet - MBS\nH No:3-83/1/PC/107, Panchasheel Complex,\n\nSurvery 227, Nizampet Village, Quthubullapur\n\nRR District, Hyderabad - 500072\n\nView Location\n\n"
+    "location": "Nizampet -  MBS",
+    "address": "H No:3- 83/1/PC/107, Panchasheel Complex,\n\nSurvery 227, Nizampet Village, Quthubullapur\n\nRR District, Hyderabad -  500072",
+    "other": "\n\nTelangana -  MBS\nNizampet -  MBS\nH No:3- 83/1/PC/107, Panchasheel Complex,\n\nSurvery 227, Nizampet Village, Quthubullapur\n\nRR District, Hyderabad -  500072\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nAS Rao Nagar - MBS\nA9, PSR Laxmi Heights, Rukminipuri,\n\nOpp to Ushodaya Super Market\n\nAS Rao Nagar, Hyderabad - 500062\n\nView Location\n\n"
+    "location": "AS Rao Nagar -  MBS",
+    "address": "A9, PSR Laxmi Heights, Rukminipuri,\n\nOpp to Ushodaya Super Market\n\nAS Rao Nagar, Hyderabad -  500062",
+    "other": "\n\nTelangana -  MBS\nAS Rao Nagar -  MBS\nA9, PSR Laxmi Heights, Rukminipuri,\n\nOpp to Ushodaya Super Market\n\nAS Rao Nagar, Hyderabad -  500062\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nKukatpally - MBS\nH No 12-6-2-268/2 & 3,\n\nSY NO 575, Kukatpally,\n\nHyderabad - 500072.\n\nView Location\n\n"
+    "location": "Kukatpally -  MBS",
+    "address": "H No 12- 6- 2- 268/2 & 3,\n\nSY NO 575, Kukatpally,\n\nHyderabad -  500072.",
+    "other": "\n\nTelangana -  MBS\nKukatpally -  MBS\nH No 12- 6- 2- 268/2 & 3,\n\nSY NO 575, Kukatpally,\n\nHyderabad -  500072.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nMadinaguda - MBS\nPlot No 81 & 82, SY NO 228 & 229/1,,\n\nBlock No 1, Madinaguda Village, Hyderabad -500049.\n\nView Location\n\n"
+    "location": "Madinaguda -  MBS",
+    "address": "Plot No 81 & 82, SY NO 228 & 229/1,,\n\nBlock No 1, Madinaguda Village, Hyderabad - 500049.",
+    "other": "\n\nTelangana -  MBS\nMadinaguda -  MBS\nPlot No 81 & 82, SY NO 228 & 229/1,,\n\nBlock No 1, Madinaguda Village, Hyderabad - 500049.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nKompally - MBS\nSurvey No 91, 92 & 93, Green park Avenue,\n\nNear HDFC Bank, Kompally Road,\n\nSuchitra Circle,Jedimetla, Quthubullapur Mandal,\n\nR R District, Secunderabad – 500055.\n\nView Location\n\n"
+    "location": "Kompally -  MBS",
+    "address": "Survey No 91, 92 & 93, Green park Avenue,\n\nNear HDFC Bank, Kompally Road,\n\nSuchitra Circle,Jedimetla, Quthubullapur Mandal,\n\nR R District, Secunderabad – 500055.",
+    "other": "\n\nTelangana -  MBS\nKompally -  MBS\nSurvey No 91, 92 & 93, Green park Avenue,\n\nNear HDFC Bank, Kompally Road,\n\nSuchitra Circle,Jedimetla, Quthubullapur Mandal,\n\nR R District, Secunderabad – 500055.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nVanasthalipuram - MBS\nPlotNo:-H1,H2,H7 & H8,Abhyudaya Nagar,\n\nVanasthalipuram,Hyderabad - 500074\n\nView Location\n\n"
+    "location": "Vanasthalipuram -  MBS",
+    "address": "PlotNo:- H1,H2,H7 & H8,Abhyudaya Nagar,\n\nVanasthalipuram,Hyderabad -  500074",
+    "other": "\n\nTelangana -  MBS\nVanasthalipuram -  MBS\nPlotNo:- H1,H2,H7 & H8,Abhyudaya Nagar,\n\nVanasthalipuram,Hyderabad -  500074\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nNagaram - MBS\n3-42, Nagaram Village,\n\nKeesara Mandal, Hyderabad - 500083,\n\nAMBERPET MAIN ROAD 500013\n\nView Location\n\n"
+    "location": "Nagaram -  MBS",
+    "address": "3- 42, Nagaram Village,\n\nKeesara Mandal, Hyderabad -  500083,\n\nAMBERPET MAIN ROAD 500013",
+    "other": "\n\nTelangana -  MBS\nNagaram -  MBS\n3- 42, Nagaram Village,\n\nKeesara Mandal, Hyderabad -  500083,\n\nAMBERPET MAIN ROAD 500013\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nBhel - MBS\nH.No 23-54, 23-56, 23-57, Plot No: 7,\n\nSurvey No:202, Ashok Nagar,\n\nRamachandrapuram, Medak, Hyderabad - 502032.\n\nView Location\n\n"
+    "location": "Bhel -  MBS",
+    "address": "H.No 23- 54, 23- 56, 23- 57, Plot No: 7,\n\nSurvey No:202, Ashok Nagar,\n\nRamachandrapuram, Medak, Hyderabad -  502032.",
+    "other": "\n\nTelangana -  MBS\nBhel -  MBS\nH.No 23- 54, 23- 56, 23- 57, Plot No: 7,\n\nSurvey No:202, Ashok Nagar,\n\nRamachandrapuram, Medak, Hyderabad -  502032.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nTolichowki - MBS\n8-1-351/A/20, Adam Colony,\n\nTolichowki, Hyderabad - 500008\n\nView Location\n\n"
+    "location": "Tolichowki -  MBS",
+    "address": "8- 1- 351/A/20, Adam Colony,\n\nTolichowki, Hyderabad -  500008",
+    "other": "\n\nTelangana -  MBS\nTolichowki -  MBS\n8- 1- 351/A/20, Adam Colony,\n\nTolichowki, Hyderabad -  500008\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nUppal - MBS\nNO 1-46/2, Plot No 5 & 6,\n\nDubba Narasimha Reddy Building, Venkateswara Colony,\n\nRing Road, Uppal, Hyderabad - 500039.\n\nView Location\n\n"
+    "location": "Uppal -  MBS",
+    "address": "NO 1- 46/2, Plot No 5 & 6,\n\nDubba Narasimha Reddy Building, Venkateswara Colony,\n\nRing Road, Uppal, Hyderabad -  500039.",
+    "other": "\n\nTelangana -  MBS\nUppal -  MBS\nNO 1- 46/2, Plot No 5 & 6,\n\nDubba Narasimha Reddy Building, Venkateswara Colony,\n\nRing Road, Uppal, Hyderabad -  500039.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nDilsukhnagar - MBS\nNO 13-4-27/A, 2D, Sri Shailajapushpa Chambers,\n\nSY NO 29/1, PART 77/1, 78, Vikas Nagar Colony,\n\nMandal RR Dist, Hyderabad - 500060.\n\nView Location\n\n"
+    "location": "Dilsukhnagar -  MBS",
+    "address": "NO 13- 4- 27/A, 2D, Sri Shailajapushpa Chambers,\n\nSY NO 29/1, PART 77/1, 78, Vikas Nagar Colony,\n\nMandal RR Dist, Hyderabad -  500060.",
+    "other": "\n\nTelangana -  MBS\nDilsukhnagar -  MBS\nNO 13- 4- 27/A, 2D, Sri Shailajapushpa Chambers,\n\nSY NO 29/1, PART 77/1, 78, Vikas Nagar Colony,\n\nMandal RR Dist, Hyderabad -  500060.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nChintal - MBS\nNO H NO6 47 1HMT ROAD,\n\nCHINTAL JEDIMETLA,,\n\nHYDERABAD-500054\n\nView Location\n\n"
+    "location": "Chintal -  MBS",
+    "address": "NO H NO6 47 1HMT ROAD,\n\nCHINTAL JEDIMETLA,,\n\nHYDERABAD- 500054",
+    "other": "\n\nTelangana -  MBS\nChintal -  MBS\nNO H NO6 47 1HMT ROAD,\n\nCHINTAL JEDIMETLA,,\n\nHYDERABAD- 500054\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nRamanthapur - MBS\nH No 2 2 58 To 60 Prashanthi Arcade,\n\nRamanthapur Main Road, HYDERABAD-500030\n\nView Location\n\n"
+    "location": "Ramanthapur -  MBS",
+    "address": "H No 2 2 58 To 60 Prashanthi Arcade,\n\nRamanthapur Main Road, HYDERABAD- 500030",
+    "other": "\n\nTelangana -  MBS\nRamanthapur -  MBS\nH No 2 2 58 To 60 Prashanthi Arcade,\n\nRamanthapur Main Road, HYDERABAD- 500030\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nHyderguda- MBS\nH.No. 3-6-289, Hyderguda,\n\nHyderabad, Telangana State - 500029.\n\nView Location\n\n"
+    "location": "Hyderguda-  MBS",
+    "address": "H.No. 3- 6- 289, Hyderguda,\n\nHyderabad, Telangana State -  500029.",
+    "other": "\n\nTelangana -  MBS\nHyderguda-  MBS\nH.No. 3- 6- 289, Hyderguda,\n\nHyderabad, Telangana State -  500029.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nJubilee Hills-MBS\nPlot No : 703, Road No: 36,\n\nMetro piller no-27, Hyderabad - 500033.\n\nView Location\n\n"
+    "location": "Jubilee Hills- MBS",
+    "address": "Plot No : 703, Road No: 36,\n\nMetro piller no- 27, Hyderabad -  500033.",
+    "other": "\n\nTelangana -  MBS\nJubilee Hills- MBS\nPlot No : 703, Road No: 36,\n\nMetro piller no- 27, Hyderabad -  500033.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nKondapur-MBS\nPLOT NO 17 C AND 28C IN SURVEY NO 60\n\n60 KONDAPUR VILLAGE SERILINGAMPALLY MANDAL,\n\nHYDERABAD-500084.\n\nView Location\n\n"
+    "location": "Kondapur- MBS",
+    "address": "PLOT NO 17 C AND 28C IN SURVEY NO 60\n\n60 KONDAPUR VILLAGE SERILINGAMPALLY MANDAL,\n\nHYDERABAD- 500084.",
+    "other": "\n\nTelangana -  MBS\nKondapur- MBS\nPLOT NO 17 C AND 28C IN SURVEY NO 60\n\n60 KONDAPUR VILLAGE SERILINGAMPALLY MANDAL,\n\nHYDERABAD- 500084.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nPANJAGUTTA-MBS\nPLOT NO:5&6 NAGARJUNA CO-OPERATIVE HOUSING SOCIETY LTD\n\nPANJAGUTTA HYDERABAD - 500082\n\nView Location\n\n"
+    "location": "PANJAGUTTA- MBS",
+    "address": "PLOT NO:5&6 NAGARJUNA CO- OPERATIVE HOUSING SOCIETY LTD\n\nPANJAGUTTA HYDERABAD -  500082",
+    "other": "\n\nTelangana -  MBS\nPANJAGUTTA- MBS\nPLOT NO:5&6 NAGARJUNA CO- OPERATIVE HOUSING SOCIETY LTD\n\nPANJAGUTTA HYDERABAD -  500082\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nMalakpet-MBS\nHOUSE NO 16 2 70516 2 704 A 1\n\nBESIDES D MART MALLORY MALAKPET ,\n\nHYDERABAD- 500036\n\nView Location\n\n"
+    "location": "Malakpet- MBS",
+    "address": "HOUSE NO 16 2 70516 2 704 A 1\n\nBESIDES D MART MALLORY MALAKPET ,\n\nHYDERABAD-  500036",
+    "other": "\n\nTelangana -  MBS\nMalakpet- MBS\nHOUSE NO 16 2 70516 2 704 A 1\n\nBESIDES D MART MALLORY MALAKPET ,\n\nHYDERABAD-  500036\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nBegumpet-MBS\nNo.1-8-303/33,Roxana Sanai\n\nNear Bowl O China, Situated at S.P.Road,\n\nBegumpet, Secunderabad – 500003 Telangana State\n\nView Location\n\n"
+    "location": "Begumpet- MBS",
+    "address": "No.1- 8- 303/33,Roxana Sanai\n\nNear Bowl O China, Situated at S.P.Road,\n\nBegumpet, Secunderabad – 500003 Telangana State",
+    "other": "\n\nTelangana -  MBS\nBegumpet- MBS\nNo.1- 8- 303/33,Roxana Sanai\n\nNear Bowl O China, Situated at S.P.Road,\n\nBegumpet, Secunderabad – 500003 Telangana State\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nTrimulgherry-MBS\nSurvey No 26 (GLR Survey No: 292),\n\nTrimulgherry, Secunderabad Cantonment,\n\nSecunderabad, Hyderabad - 500015.\n\nView Location\n\n"
+    "location": "Trimulgherry- MBS",
+    "address": "Survey No 26 (GLR Survey No: 292),\n\nTrimulgherry, Secunderabad Cantonment,\n\nSecunderabad, Hyderabad -  500015.",
+    "other": "\n\nTelangana -  MBS\nTrimulgherry- MBS\nSurvey No 26 (GLR Survey No: 292),\n\nTrimulgherry, Secunderabad Cantonment,\n\nSecunderabad, Hyderabad -  500015.\n\n"
   },
   {
-    "other": "\n\nTelangana - MBS\nShalibanda - MBS\nPlot No. 23-5-381/A/1& 2, 23-5, 381/A/3&4,\n\n23-5-382/A/7& 2 SYED ALI CHABUTRA,\n\nOPP SHAH GHOUSE HOTEL, SHALIBANDA ROAD,\n\nOld City, Hyderabad - 500065.\n\nView Location\n\n"
+    "location": "Shalibanda -  MBS",
+    "address": "Plot No. 23- 5- 381/A/1& 2, 23- 5, 381/A/3&4,\n\n23- 5- 382/A/7& 2 SYED ALI CHABUTRA,\n\nOPP SHAH GHOUSE HOTEL, SHALIBANDA ROAD,\n\nOld City, Hyderabad -  500065.",
+    "other": "\n\nTelangana -  MBS\nShalibanda -  MBS\nPlot No. 23- 5- 381/A/1& 2, 23- 5, 381/A/3&4,\n\n23- 5- 382/A/7& 2 SYED ALI CHABUTRA,\n\nOPP SHAH GHOUSE HOTEL, SHALIBANDA ROAD,\n\nOld City, Hyderabad -  500065.\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Neredmet\nNo G 6 G 7 Nagarjuna Arcade\n\nNeredmet X Roads, Hyderabad-500056.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Neredmet",
+    "address": "No G 6 G 7 Nagarjuna Arcade\n\nNeredmet X Roads, Hyderabad- 500056.",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Neredmet\nNo G 6 G 7 Nagarjuna Arcade\n\nNeredmet X Roads, Hyderabad- 500056.\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Warangal\nDoor No.9-10-21&22, Jpn Road,\n\nOpposite Sbh Petrol Pump,\n\nWarangal, Telangana-506002\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Warangal",
+    "address": "Door No.9- 10- 21&22, Jpn Road,\n\nOpposite Sbh Petrol Pump,\n\nWarangal, Telangana- 506002",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Warangal\nDoor No.9- 10- 21&22, Jpn Road,\n\nOpposite Sbh Petrol Pump,\n\nWarangal, Telangana- 506002\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - KARIMNAGAR\n Door No.7-4-4221/1,\n\nBeside Indian Overseas Bank, Mankamathota,\n\nKarimnagar,Telangana State-505001\n\nView Location\n\n"
+    "location": "Pai Mobiles -  KARIMNAGAR",
+    "address": " Door No.7- 4- 4221/1,\n\nBeside Indian Overseas Bank, Mankamathota,\n\nKarimnagar,Telangana State- 505001",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  KARIMNAGAR\n Door No.7- 4- 4221/1,\n\nBeside Indian Overseas Bank, Mankamathota,\n\nKarimnagar,Telangana State- 505001\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - KAMAREDDY\n Door no 1-2-22, Beside SBI bank,\n\nSircilla road Kamareddy District,\n\nTelangana -503111\n\nView Location\n\n"
+    "location": "Pai Mobiles -  KAMAREDDY",
+    "address": " Door no 1- 2- 22, Beside SBI bank,\n\nSircilla road Kamareddy District,\n\nTelangana - 503111",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  KAMAREDDY\n Door no 1- 2- 22, Beside SBI bank,\n\nSircilla road Kamareddy District,\n\nTelangana - 503111\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Dilsukhnagar\nNo. 13-9-46/7,Near Sai baba Temple,\n\nDilsukhnagar,Hyderabad-500060.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Dilsukhnagar",
+    "address": "No. 13- 9- 46/7,Near Sai baba Temple,\n\nDilsukhnagar,Hyderabad- 500060.",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Dilsukhnagar\nNo. 13- 9- 46/7,Near Sai baba Temple,\n\nDilsukhnagar,Hyderabad- 500060.\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Manikonda\nNo 8 1 284 Ou 192Ou Colony,\n\nShakirpet,manikonda,\n\nHYDERABAD-500008.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Manikonda",
+    "address": "No 8 1 284 Ou 192Ou Colony,\n\nShakirpet,manikonda,\n\nHYDERABAD- 500008.",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Manikonda\nNo 8 1 284 Ou 192Ou Colony,\n\nShakirpet,manikonda,\n\nHYDERABAD- 500008.\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Paradise\nNo 6 139D NO 1 7 288 6 AND SHOP NO 18 D NO 1 7 288 18\n\nParadise Junction,\n\nHYDERABAD-500060\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Paradise",
+    "address": "No 6 139D NO 1 7 288 6 AND SHOP NO 18 D NO 1 7 288 18\n\nParadise Junction,\n\nHYDERABAD- 500060",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Paradise\nNo 6 139D NO 1 7 288 6 AND SHOP NO 18 D NO 1 7 288 18\n\nParadise Junction,\n\nHYDERABAD- 500060\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Hasthinapuram\nNO G1 H NO 7 2 256 7,\n\nOMKARNAGARSAGAR ROAD HASTHINAPURAM\n\nHYDERABAD-500060\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Hasthinapuram",
+    "address": "NO G1 H NO 7 2 256 7,\n\nOMKARNAGARSAGAR ROAD HASTHINAPURAM\n\nHYDERABAD- 500060",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Hasthinapuram\nNO G1 H NO 7 2 256 7,\n\nOMKARNAGARSAGAR ROAD HASTHINAPURAM\n\nHYDERABAD- 500060\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Karkhana\nNO 20 SURVEY NO 6061 621\n\nNEW VASAVI COOPERATIVE HOUSING SOCIETY,\n\nKHARKHANA, SECUNDERABAD-500015\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Karkhana",
+    "address": "NO 20 SURVEY NO 6061 621\n\nNEW VASAVI COOPERATIVE HOUSING SOCIETY,\n\nKHARKHANA, SECUNDERABAD- 500015",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Karkhana\nNO 20 SURVEY NO 6061 621\n\nNEW VASAVI COOPERATIVE HOUSING SOCIETY,\n\nKHARKHANA, SECUNDERABAD- 500015\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Isnapur\nH. No. 8-55, Survey No. 241/AA,\n\nISNAPUR Village, Patancheru Mandal,\n\nMedak District, 502307 Telangana.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Isnapur",
+    "address": "H. No. 8- 55, Survey No. 241/AA,\n\nISNAPUR Village, Patancheru Mandal,\n\nTelangana,Medak District, 502307 .",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Isnapur\nH. No. 8- 55, Survey No. 241/AA,\n\nISNAPUR Village, Patancheru Mandal,\n\nMedak District, 502307 Telangana.\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Medchal\nPlot No. 25/part, H.No. 13-118/1 part\n\nMedchal, R.R district, Telangana. 501401\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Medchal",
+    "address": "Plot No. 25/part, H.No. 13- 118/1 part\n\nMedchal, R.R district, Telangana. 501401",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Medchal\nPlot No. 25/part, H.No. 13- 118/1 part\n\nMedchal, R.R district, Telangana. 501401\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - SantoshNagar\nNo. 8-100 (New No. 9-8-152), Pochamma Gadda,\n\nSultan Valva, Saroornagar,\n\nRanga Reddy District, T.S. 500056.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  SantoshNagar",
+    "address": "No. 8- 100 (New No. 9- 8- 152), Pochamma Gadda,\n\nSultan Valva, Saroornagar,\n\nRanga Reddy District, T.S. 500056.",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  SantoshNagar\nNo. 8- 100 (New No. 9- 8- 152), Pochamma Gadda,\n\nSultan Valva, Saroornagar,\n\nRanga Reddy District, T.S. 500056.\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Bowenpally\nPlot No 3, Flat no7,\n\nDhanlakshmi Cooperative Society Ward No 1,\n\nBapujinagar, Bowenpally, Secunderabad 500011\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Bowenpally",
+    "address": "Plot No 3, Flat no7,\n\nDhanlakshmi Cooperative Society Ward No 1,\n\nBapujinagar, Bowenpally, Secunderabad 500011",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Bowenpally\nPlot No 3, Flat no7,\n\nDhanlakshmi Cooperative Society Ward No 1,\n\nBapujinagar, Bowenpally, Secunderabad 500011\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Banjara Hills\nDoor No.8-2-636/1, Road No.12,\n\nBanjara Hills, Near Virinchi Hospitals,\n\nHyderabad - 500034.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Banjara Hills",
+    "address": "Door No.8- 2- 636/1, Road No.12,\n\nBanjara Hills, Near Virinchi Hospitals,\n\nHyderabad -  500034.",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Banjara Hills\nDoor No.8- 2- 636/1, Road No.12,\n\nBanjara Hills, Near Virinchi Hospitals,\n\nHyderabad -  500034.\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Nirmal\nDoor No. 1-2-26, Nataraj Nagar,\n\nBeside DCB Bank, Nirmal,\n\nNirmal District, Telangana - 504106\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Nirmal",
+    "address": "Door No. 1- 2- 26, Nataraj Nagar,\n\nBeside DCB Bank, Nirmal,\n\nNirmal District, Telangana -  504106",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Nirmal\nDoor No. 1- 2- 26, Nataraj Nagar,\n\nBeside DCB Bank, Nirmal,\n\nNirmal District, Telangana -  504106\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Nalgonda\nShop No.6-2-627/1,Opposite Beat Market Yard,\n\nSrinagar Colony, Nalgonda,\n\nNalgonda District, Telangana - 508001\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Nalgonda",
+    "address": "Shop No.6- 2- 627/1,Opposite Beat Market Yard,\n\nSrinagar Colony, Nalgonda,\n\nNalgonda District, Telangana -  508001",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Nalgonda\nShop No.6- 2- 627/1,Opposite Beat Market Yard,\n\nSrinagar Colony, Nalgonda,\n\nNalgonda District, Telangana -  508001\n\n"
   },
   {
-    "other": "\n\nTelangana - Mobiles\nPai Mobiles - Sangareddy\nNo.5-2-35, Srikurpa Nagar, Main Road\n\nNear District Court, Sangareddy Town and District,\n\nTelangana - 502001\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Sangareddy",
+    "address": "No.5- 2- 35, Srikurpa Nagar, Main Road\n\nNear District Court, Sangareddy Town and District,\n\nTelangana -  502001",
+    "other": "\n\nTelangana -  Mobiles\nPai Mobiles -  Sangareddy\nNo.5- 2- 35, Srikurpa Nagar, Main Road\n\nNear District Court, Sangareddy Town and District,\n\nTelangana -  502001\n\n"
   },
   {
-    "other": "\n\nAP Multi Brand Stores\nPai International – BENZCIRCLE\nD.NO.40-1-99& 40-1-100,\n\nBABA ESTATES, M.G. ROAD,\n\nKHANNA NAGAR, BENZCIRCLE,\n\nVIJAYAWADA - 520010.\n\nView Location\n\n"
+    "location": "Pai International – BENZCIRCLE",
+    "address": "D.NO.40- 1- 99& 40- 1- 100,\n\nBABA ESTATES, M.G. ROAD,\n\nKHANNA NAGAR, BENZCIRCLE,\n\nVIJAYAWADA -  520010.",
+    "other": "\n\nAP Multi Brand Stores\nPai International – BENZCIRCLE\nD.NO.40- 1- 99& 40- 1- 100,\n\nBABA ESTATES, M.G. ROAD,\n\nKHANNA NAGAR, BENZCIRCLE,\n\nVIJAYAWADA -  520010.\n\n"
   },
   {
-    "other": "\n\nAP Multi Brand Stores\nDIAMOND PARK MBS\nD.NO. 43-9-182/1,\n\nWARD NO. 31 SUBBALAKSHMI NAGAR,\n\nMAIN ROAD DONDAPARTHI ROAD,\n\nVISAKHAPATNAM - 530016(A.P)\n\nView Location\n\n"
+    "location": "DIAMOND PARK MBS",
+    "address": "D.NO. 43- 9- 182/1,\n\nWARD NO. 31 SUBBALAKSHMI NAGAR,\n\nMAIN ROAD DONDAPARTHI ROAD,\n\nVISAKHAPATNAM -  530016(A.P)",
+    "other": "\n\nAP Multi Brand Stores\nDIAMOND PARK MBS\nD.NO. 43- 9- 182/1,\n\nWARD NO. 31 SUBBALAKSHMI NAGAR,\n\nMAIN ROAD DONDAPARTHI ROAD,\n\nVISAKHAPATNAM -  530016(A.P)\n\n"
   },
   {
-    "other": "\n\nAP Multi Brand Stores\nGAJUWAKA MBS\nD.NO. 10-8-57, MAIN ROAD,\n\nNEAR NEW GAJUWAKA BUS STOP,\n\nVISAKHAPATNAM - 530026(A.P).\n\nView Location\n\n"
+    "location": "GAJUWAKA MBS",
+    "address": "D.NO. 10- 8- 57, MAIN ROAD,\n\nNEAR NEW GAJUWAKA BUS STOP,\n\nVISAKHAPATNAM -  530026(A.P).",
+    "other": "\n\nAP Multi Brand Stores\nGAJUWAKA MBS\nD.NO. 10- 8- 57, MAIN ROAD,\n\nNEAR NEW GAJUWAKA BUS STOP,\n\nVISAKHAPATNAM -  530026(A.P).\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Rajahmundry\nDo No: 7-30-13, Main Road,\n\nOPP Akruthi Show Room, Rajamundary,\n\nEast Godavari, AP 533101\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Rajahmundry",
+    "address": "Do No: 7- 30- 13, Main Road,\n\nOPP Akruthi Show Room, Rajamundary,\n\nEast Godavari, AP 533101",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Rajahmundry\nDo No: 7- 30- 13, Main Road,\n\nOPP Akruthi Show Room, Rajamundary,\n\nEast Godavari, AP 533101\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Kalyanadurgam\nShop No.9C/24, Ground Floor,\n\nBallary Road, Main Road, Kalyandurgam\n\nAnantapur District, Andhra Pradesh-515761\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kalyanadurgam",
+    "address": "Shop No.9C/24, Ground Floor,\n\nBallary Road, Main Road, Kalyandurgam\n\nAnantapur District, Andhra Pradesh- 515761",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Kalyanadurgam\nShop No.9C/24, Ground Floor,\n\nBallary Road, Main Road, Kalyandurgam\n\nAnantapur District, Andhra Pradesh- 515761\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Tirupati Air Bipass Road\nShop No.19-8-84/G4, Sree Padmavathi Complex\n\nNear Annamayya Circle, Air Bypass Road,\n\nYadava Colony, Tirupathi,\n\nChittoor District, Andhra Pradesh-517501\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Tirupati Air Bipass Road",
+    "address": "Shop No.19- 8- 84/G4, Sree Padmavathi Complex\n\nNear Annamayya Circle, Air Bypass Road,\n\nYadava Colony, Tirupathi,\n\nChittoor District, Andhra Pradesh- 517501",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Tirupati Air Bipass Road\nShop No.19- 8- 84/G4, Sree Padmavathi Complex\n\nNear Annamayya Circle, Air Bypass Road,\n\nYadava Colony, Tirupathi,\n\nChittoor District, Andhra Pradesh- 517501\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Hindpur\nDoor no:-2-3-27,Penukonda road\n\nNear Ambedkar circle Revenue ward no-2,\n\nHindupur-515201\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Hindpur",
+    "address": "Door no:- 2- 3- 27,Penukonda road\n\nNear Ambedkar circle Revenue ward no- 2,\n\nHindupur- 515201",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Hindpur\nDoor no:- 2- 3- 27,Penukonda road\n\nNear Ambedkar circle Revenue ward no- 2,\n\nHindupur- 515201\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - NAD VIZAG\nDoor No.58-1-309, Main Road,\n\nButchirajupalem, Opposite Andhra bank,\n\nWard No.67, NAD , Visakaptnam,\n\nAndhra Pradesh-530027\n\nView Location\n\n"
+    "location": "Pai Mobiles -  NAD VIZAG",
+    "address": "Door No.58- 1- 309, Main Road,\n\nButchirajupalem, Opposite Andhra bank,\n\nWard No.67, NAD , Visakaptnam,\n\nAndhra Pradesh- 530027",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  NAD VIZAG\nDoor No.58- 1- 309, Main Road,\n\nButchirajupalem, Opposite Andhra bank,\n\nWard No.67, NAD , Visakaptnam,\n\nAndhra Pradesh- 530027\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - ANAKAPALLE\nDoor No.7-8-34, Main Road,\n\nRevenue Ward No.6, Anakapalle,\n\nVisakapatnam District, AP-531001\n\nView Location\n\n"
+    "location": "Pai Mobiles -  ANAKAPALLE",
+    "address": "Door No.7- 8- 34, Main Road,\n\nRevenue Ward No.6, Anakapalle,\n\nVisakapatnam District, AP- 531001",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  ANAKAPALLE\nDoor No.7- 8- 34, Main Road,\n\nRevenue Ward No.6, Anakapalle,\n\nVisakapatnam District, AP- 531001\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Bhimavaram\nShop No.16-2-7, Opposite Raymond Show Room,\n\nRevenue Ward No-7, Bhimavaram,\n\nWest Godavari District, Andhra Pradesh-534201\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Bhimavaram",
+    "address": "Shop No.16- 2- 7, Opposite Raymond Show Room,\n\nRevenue Ward No- 7, Bhimavaram,\n\nWest Godavari District, Andhra Pradesh- 534201",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Bhimavaram\nShop No.16- 2- 7, Opposite Raymond Show Room,\n\nRevenue Ward No- 7, Bhimavaram,\n\nWest Godavari District, Andhra Pradesh- 534201\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Nandyala\nDoor No: 25/557-2,Srinivasa Nagar Main Road,\n\nBeside State Bank Of India,\n\nNear Rama Krishna Degree College Nandyala,\n\nKurnool Dt, Andhra Pradesh 518501.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Nandyala",
+    "address": "Door No: 25/557- 2,Srinivasa Nagar Main Road,\n\nBeside State Bank Of India,\n\nNear Rama Krishna Degree College Nandyala,\n\nKurnool Dt, Andhra Pradesh 518501.",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Nandyala\nDoor No: 25/557- 2,Srinivasa Nagar Main Road,\n\nBeside State Bank Of India,\n\nNear Rama Krishna Degree College Nandyala,\n\nKurnool Dt, Andhra Pradesh 518501.\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Madanapalle1\nDo No: 13-276, Ground floor,\n\nAvenue Road, Madanpalli Road,\n\nChittor Dt, Andhrapradesh 517325.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Madanapalle1",
+    "address": "Do No: 13- 276, Ground floor,\n\nAvenue Road, Madanpalli Road,\n\nChittor Dt, Andhrapradesh 517325.",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Madanapalle1\nDo No: 13- 276, Ground floor,\n\nAvenue Road, Madanpalli Road,\n\nChittor Dt, Andhrapradesh 517325.\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Madanapalle2\nNo.14-2-3-2, CTM Road,\n\nMadanapalle,\n\nChittoor District, Andra Pradesh - 517325.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Madanapalle2",
+    "address": "No.14- 2- 3- 2, CTM Road,\n\nMadanapalle,\n\nChittoor District, Andra Pradesh -  517325.",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Madanapalle2\nNo.14- 2- 3- 2, CTM Road,\n\nMadanapalle,\n\nChittoor District, Andra Pradesh -  517325.\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Kurnool\nDoor No: 51/959 A49 & 51/959 A1,\n\nSK Complex, Ballari Road,\n\nNear New Bus stand,\n\nkurnool, AP 518003,\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kurnool",
+    "address": "Door No: 51/959 A49 & 51/959 A1,\n\nSK Complex, Ballari Road,\n\nNear New Bus stand,\n\nkurnool, AP 518003,",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Kurnool\nDoor No: 51/959 A49 & 51/959 A1,\n\nSK Complex, Ballari Road,\n\nNear New Bus stand,\n\nkurnool, AP 518003,\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Tirupathi\nNo.10-13-542/A,\n\nTilak Road, Tirupati,\n\nChittor District, Andhra Pradesha - 517501\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Tirupathi",
+    "address": "No.10- 13- 542/A,\n\nTilak Road, Tirupati,\n\nChittor District, Andhra Pradesha -  517501",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Tirupathi\nNo.10- 13- 542/A,\n\nTilak Road, Tirupati,\n\nChittor District, Andhra Pradesha -  517501\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Gudivada\nNo.9/38, Opp Vinayaka Temple,\n\nMain road, Gudiwada,\n\nKrishna district, Andra Pradesh - 521301\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Gudivada",
+    "address": "No.9/38, Opp Vinayaka Temple,\n\nMain road, Gudiwada,\n\nKrishna district, Andra Pradesh -  521301",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Gudivada\nNo.9/38, Opp Vinayaka Temple,\n\nMain road, Gudiwada,\n\nKrishna district, Andra Pradesh -  521301\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Gopalapatnam\nNo.10-47/7, Main road,\n\nGopalapatnam, Vishakpatnam - 530027\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Gopalapatnam",
+    "address": "No.10- 47/7, Main road,\n\nGopalapatnam, Vishakpatnam -  530027",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Gopalapatnam\nNo.10- 47/7, Main road,\n\nGopalapatnam, Vishakpatnam -  530027\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Nuzividu\nNo.7-74/3, Baginapalli Thota\n\nBus Stand Road, Nuzividu,\n\nKrishna District, Andra pradesh - 521201.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Nuzividu",
+    "address": "No.7- 74/3, Baginapalli Thota\n\nBus Stand Road, Nuzividu,\n\nKrishna District, Andra pradesh -  521201.",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Nuzividu\nNo.7- 74/3, Baginapalli Thota\n\nBus Stand Road, Nuzividu,\n\nKrishna District, Andra pradesh -  521201.\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Vijayawada1\n# 29-37-26, Durga agraharam, Eluru Road,\n\nGavarnar peta, vijayawada urban,\n\nBuckinghampet, krishna, AP 520002\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Vijayawada1",
+    "address": "# 29- 37- 26, Durga agraharam, Eluru Road,\n\nGavarnar peta, vijayawada urban,\n\nBuckinghampet, krishna, AP 520002",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Vijayawada1\n# 29- 37- 26, Durga agraharam, Eluru Road,\n\nGavarnar peta, vijayawada urban,\n\nBuckinghampet, krishna, AP 520002\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Vijayawada2\n39-1-48/1, Revenue ward No-18,\n\nNear vetarnari hospital, MG Road,\n\nLabbipet, Vijayawada - 520010.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Vijayawada2",
+    "address": "39- 1- 48/1, Revenue ward No- 18,\n\nNear vetarnari hospital, MG Road,\n\nLabbipet, Vijayawada -  520010.",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Vijayawada2\n39- 1- 48/1, Revenue ward No- 18,\n\nNear vetarnari hospital, MG Road,\n\nLabbipet, Vijayawada -  520010.\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Pendurthi\nDo no: 6-135/8 Shop No-7, NarayanammaComplex\n\npendurthi,Visakapatnam 530047\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Pendurthi",
+    "address": "Do no: 6- 135/8 Shop No- 7, NarayanammaComplex\n\npendurthi,Visakapatnam 530047",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Pendurthi\nDo no: 6- 135/8 Shop No- 7, NarayanammaComplex\n\npendurthi,Visakapatnam 530047\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Kakinada\n# 33-1-21, Subash Road,\n\nWard No:21, Kakinada ,\n\nEast Godavari, AP, 533001\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Kakinada",
+    "address": "# 33- 1- 21, Subash Road,\n\nWard No:21, Kakinada ,\n\nEast Godavari, AP, 533001",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Kakinada\n# 33- 1- 21, Subash Road,\n\nWard No:21, Kakinada ,\n\nEast Godavari, AP, 533001\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Gunthakal\nDo No:16/24, Crown Takies Road.\n\nRevenue Ward No:16 Gunthakal,\n\nAnantapur Dt, AP : 515801\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Gunthakal",
+    "address": "Do No:16/24, Crown Takies Road.\n\nRevenue Ward No:16 Gunthakal,\n\nAnantapur Dt, AP : 515801",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Gunthakal\nDo No:16/24, Crown Takies Road.\n\nRevenue Ward No:16 Gunthakal,\n\nAnantapur Dt, AP : 515801\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Palamaneru\nShop No.12-15, Javali Street,\n\nPalamaner, Chittoor District,,\n\nAndhra Pradesh - 517408.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Palamaneru",
+    "address": "Shop No.12- 15, Javali Street,\n\nPalamaner, Chittoor District,,\n\nAndhra Pradesh -  517408.",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Palamaneru\nShop No.12- 15, Javali Street,\n\nPalamaner, Chittoor District,,\n\nAndhra Pradesh -  517408.\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Parvathipuram\nShop No.7-5-12, Main Road,\n\nRevenue Ward No.6, Parvathipuram,\n\nVizianagaram District, Andhra Pradesh - 535501\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Parvathipuram",
+    "address": "Shop No.7- 5- 12, Main Road,\n\nRevenue Ward No.6, Parvathipuram,\n\nVizianagaram District, Andhra Pradesh -  535501",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Parvathipuram\nShop No.7- 5- 12, Main Road,\n\nRevenue Ward No.6, Parvathipuram,\n\nVizianagaram District, Andhra Pradesh -  535501\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Palakollu\nShop No.18-01-12, Main Road,\n\nOpposite Police Station, Revenue Ward No.8,\n\nPalakollu, West Godavari District,\n\nAndhra Pradesh - 534260\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Palakollu",
+    "address": "Shop No.18- 01- 12, Main Road,\n\nOpposite Police Station, Revenue Ward No.8,\n\nPalakollu, West Godavari District,\n\nAndhra Pradesh -  534260",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Palakollu\nShop No.18- 01- 12, Main Road,\n\nOpposite Police Station, Revenue Ward No.8,\n\nPalakollu, West Godavari District,\n\nAndhra Pradesh -  534260\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Amalapuram\nDoor No.7-1-5, High School Road,\n\nRevenue Ward No-9, Amalapuram,\n\nEast Godavri District, Andhra Pradesh- 533201.\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Amalapuram",
+    "address": "Door No.7- 1- 5, High School Road,\n\nRevenue Ward No- 9, Amalapuram,\n\nEast Godavri District, Andhra Pradesh-  533201.",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Amalapuram\nDoor No.7- 1- 5, High School Road,\n\nRevenue Ward No- 9, Amalapuram,\n\nEast Godavri District, Andhra Pradesh-  533201.\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Guntur\nShop No. 5-37-68/1, Ward No.3,\n\nBlock No:7, 4th Line, Brodipet, Guntur,\n\nGuntur District, Andhra Pradesh - 522002,\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Guntur",
+    "address": "Shop No. 5- 37- 68/1, Ward No.3,\n\nBlock No:7, 4th Line, Brodipet, Guntur,\n\nGuntur District, Andhra Pradesh -  522002,",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Guntur\nShop No. 5- 37- 68/1, Ward No.3,\n\nBlock No:7, 4th Line, Brodipet, Guntur,\n\nGuntur District, Andhra Pradesh -  522002,\n\n"
   },
   {
-    "other": "\n\nAP Mobiles\nPai Mobiles - Nellore\nDoor No.15/187/1, Shop No.2,\n\nR.R Street, Narthaki Center,Nellore\n\nNellore District, Andhra Pradesh - 524001\n\nView Location\n\n"
+    "location": "Pai Mobiles -  Nellore",
+    "address": "Door No.15/187/1, Shop No.2,\n\nR.R Street, Narthaki Center,Nellore\n\nNellore District, Andhra Pradesh -  524001",
+    "other": "\n\nAP Mobiles\nPai Mobiles -  Nellore\nDoor No.15/187/1, Shop No.2,\n\nR.R Street, Narthaki Center,Nellore\n\nNellore District, Andhra Pradesh -  524001\n\n"
   },
   {
-    "other": "\n\nPai Furniture\nPAI FURNITURE - RAJAJINAGAR\nPai International\n\n# 196, 2nd Stage, West of Chord Road,\n\nService Road, Near Iscon Temple,\n\nRajajinagar, Bangalore - 560086.\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  RAJAJINAGAR",
+    "address": "Pai International\n\n# 196, 2nd Stage, West of Chord Road,\n\nService Road, Near Iscon Temple,\n\nRajajinagar, Bangalore -  560086.",
+    "other": "\n\nPai Furniture\nPAI FURNITURE -  RAJAJINAGAR\nPai International\n\n# 196, 2nd Stage, West of Chord Road,\n\nService Road, Near Iscon Temple,\n\nRajajinagar, Bangalore -  560086.\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - YELAHANKA\n# 952/A, Near Police Station,\n\nBB Road, Yelahanka,\n\nBangalore - 560064.\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  YELAHANKA",
+    "address": "# 952/A, Near Police Station,\n\nBB Road, Yelahanka,\n\nBangalore -  560064.",
+    "other": "\n\nFurniture\nPAI FURNITURE -  YELAHANKA\n# 952/A, Near Police Station,\n\nBB Road, Yelahanka,\n\nBangalore -  560064.\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - ELECTRONIC CITY\n# 153/5 (Old Sy No. 152/3),\n\nNeeladri Nagar Main Road, Hulimangala Cross,\n\nElectronic City Phase-1,Bangalore-560100\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  ELECTRONIC CITY",
+    "address": "# 153/5 (Old Sy No. 152/3),\n\nNeeladri Nagar Main Road, Hulimangala Cross,\n\nElectronic City Phase- 1,Bangalore- 560100",
+    "other": "\n\nFurniture\nPAI FURNITURE -  ELECTRONIC CITY\n# 153/5 (Old Sy No. 152/3),\n\nNeeladri Nagar Main Road, Hulimangala Cross,\n\nElectronic City Phase- 1,Bangalore- 560100\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - DIAMOND PARK\n D.NO. 43-9-182/1,WARD NO. 31\n\nSUBBALAKSHMI NAGAR, MAIN ROAD\n\nDONDAPARTHI ROAD VISAKHAPATNAM-530016 (A.P)\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  DIAMOND PARK",
+    "address": " D.NO. 43- 9- 182/1,WARD NO. 31\n\nSUBBALAKSHMI NAGAR, MAIN ROAD\n\nDONDAPARTHI ROAD VISAKHAPATNAM- 530016 (A.P)",
+    "other": "\n\nFurniture\nPAI FURNITURE -  DIAMOND PARK\n D.NO. 43- 9- 182/1,WARD NO. 31\n\nSUBBALAKSHMI NAGAR, MAIN ROAD\n\nDONDAPARTHI ROAD VISAKHAPATNAM- 530016 (A.P)\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - BENZCIRCLE\n D.NO.40-1-99& 40-1-100, \n\nBABA ESTATES, M.G. ROAD, KHANNA NAGAR,\n\nBENZCIRCLE, VIJAYAWADA-520010\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  BENZCIRCLE",
+    "address": " D.NO.40- 1- 99& 40- 1- 100, \n\nBABA ESTATES, M.G. ROAD, KHANNA NAGAR,\n\nBENZCIRCLE, VIJAYAWADA- 520010",
+    "other": "\n\nFurniture\nPAI FURNITURE -  BENZCIRCLE\n D.NO.40- 1- 99& 40- 1- 100, \n\nBABA ESTATES, M.G. ROAD, KHANNA NAGAR,\n\nBENZCIRCLE, VIJAYAWADA- 520010\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - BG ROAD\nPai International\n\n# 6, Bilekahalli Gate,\n\nBannerghatta Road, Bangalore - 560076.\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  BG ROAD",
+    "address": "Pai International\n\n# 6, Bilekahalli Gate,\n\nBannerghatta Road, Bangalore -  560076.",
+    "other": "\n\nFurniture\nPAI FURNITURE -  BG ROAD\nPai International\n\n# 6, Bilekahalli Gate,\n\nBannerghatta Road, Bangalore -  560076.\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - HUBLI\nPai International\n\nCts No. 4523,4526, \"Kalburgi Trinity\"\n\nOpposite J.G College Of Commerce,\n\nVidyanagar, Hubli-580032\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  HUBLI",
+    "address": "Pai International\n\nCts No. 4523,4526, \"Kalburgi Trinity\"\n\nOpposite J.G College Of Commerce,\n\nVidyanagar, Hubli- 580032",
+    "other": "\n\nFurniture\nPAI FURNITURE -  HUBLI\nPai International\n\nCts No. 4523,4526, \"Kalburgi Trinity\"\n\nOpposite J.G College Of Commerce,\n\nVidyanagar, Hubli- 580032\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - HRBR\nPai International\n\n# 820, 5th A Cross, Kalyan Nagar,\n\n1st Block, Near Big Ganesha Temple,\n\nHRBR Layout, Bangalore - 560043.\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  HRBR",
+    "address": "Pai International\n\n# 820, 5th A Cross, Kalyan Nagar,\n\n1st Block, Near Big Ganesha Temple,\n\nHRBR Layout, Bangalore -  560043.",
+    "other": "\n\nFurniture\nPAI FURNITURE -  HRBR\nPai International\n\n# 820, 5th A Cross, Kalyan Nagar,\n\n1st Block, Near Big Ganesha Temple,\n\nHRBR Layout, Bangalore -  560043.\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - HOSUR ROAD\nPai International\n\n# 6 & 8 Next to Nissan Show Room,\n\nHosur Main Road, Garebhavipalya,\n\nBommanahalli, Bangalore – 560068\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  HOSUR ROAD",
+    "address": "Pai International\n\n# 6 & 8 Next to Nissan Show Room,\n\nHosur Main Road, Garebhavipalya,\n\nBommanahalli, Bangalore – 560068",
+    "other": "\n\nFurniture\nPAI FURNITURE -  HOSUR ROAD\nPai International\n\n# 6 & 8 Next to Nissan Show Room,\n\nHosur Main Road, Garebhavipalya,\n\nBommanahalli, Bangalore – 560068\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - BSK\nPai International\n\n# 28, Kathriguppe Main Road,\n\nBanashankari 3rd Stage,\n\n3rd Phase, Bangalore - 560085.\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  BSK",
+    "address": "Pai International\n\n# 28, Kathriguppe Main Road,\n\nBanashankari 3rd Stage,\n\n3rd Phase, Bangalore -  560085.",
+    "other": "\n\nFurniture\nPAI FURNITURE -  BSK\nPai International\n\n# 28, Kathriguppe Main Road,\n\nBanashankari 3rd Stage,\n\n3rd Phase, Bangalore -  560085.\n\n"
   },
   {
-    "other": "\n\nFurniture\nPAI FURNITURE - GAJUWAKA\nPai International\n\nD.NO. 10-8-57, MAIN ROAD,\n\nNEAR NEW GAJUWAKA BUS STOP,\n\nVISAKHAPATNAM - 530026(A.P).\n\nView Location\n\n"
+    "location": "PAI FURNITURE -  GAJUWAKA",
+    "address": "Pai International\n\nD.NO. 10- 8- 57, MAIN ROAD,\n\nNEAR NEW GAJUWAKA BUS STOP,\n\nVISAKHAPATNAM -  530026(A.P).",
+    "other": "\n\nFurniture\nPAI FURNITURE -  GAJUWAKA\nPai International\n\nD.NO. 10- 8- 57, MAIN ROAD,\n\nNEAR NEW GAJUWAKA BUS STOP,\n\nVISAKHAPATNAM -  530026(A.P).\n\n"
   }
 ]

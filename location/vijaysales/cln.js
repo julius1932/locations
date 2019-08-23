@@ -5,6 +5,16 @@ const fs = require('fs');
 var arr = [];
 var data = jsonfile.readFileSync('./dataJson.json');
 data.forEach(function(tt) {
+    let str = tt['ADDRESS'].split(",");
+     str = str.filter(word => word.trim());
+    
+    let lnd = "";
+
+    str.forEach(function(s) {
+        if (s.toLowerCase().includes("near") || s.toLowerCase().includes("opp")) {
+            lnd += " " + s;
+        }
+    });
     var item = {
     "BRANDS SOLD": "",
     "PRODUCT TYPES/ CATEGORIES": "TV",
@@ -13,7 +23,7 @@ data.forEach(function(tt) {
     "RETAILER NAME": "VIJAY SALES",
     "LOCATION NAME": "",
     "ADDRESS": "",
-    "LAND MARK": "",
+    "LAND MARK": lnd,
     "CITY": "",
     "DISTRICT": "",
     "STATE/PROVINCE": "",
@@ -37,6 +47,7 @@ data.forEach(function(tt) {
     item["CITY"] = tt['state'];
     item["CONTACT PHONE"] = tt['CONTACT'];
     item["ADDRESS"] = tt['ADDRESS'];
+    item["ZIP/POSTAL CODE"]=tt['ADDRESS'].split("-").pop();
      item["DISTRICT"] = tt['DISTRICT'];
     arr.push(item);
 });

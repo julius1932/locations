@@ -5,6 +5,21 @@ const fs = require('fs');
 var arr = [];
 var data = jsonfile.readFileSync('./dataJson.json');
 data.forEach(function(tt) {
+    let zip = "";
+    let lnd = "";
+    let str = tt["other"].trim().split("\n");
+    str.forEach(function(s) {
+        if (s.toLowerCase().includes("near") || s.toLowerCase().includes("opp")) {
+            lnd += " " + s;
+        }
+    });
+    str = str.filter(word => word.trim());
+    var matches = str.pop().trim().match(/s*(\d+)/);
+    zip = matches ? matches[0] : "";
+    if (!zip) {
+        matches = str.pop().trim().match(/s*(\d+)/);
+        zip = matches ? matches[0] : "";
+    }
     var item = {
         "BRANDS SOLD": "",
         "PRODUCT TYPES/ CATEGORIES": "TV",
@@ -13,11 +28,11 @@ data.forEach(function(tt) {
         "RETAILER NAME": "GREAT EASTERN",
         "LOCATION NAME": "",
         "ADDRESS": "",
-        "LAND MARK": "",
+        "LAND MARK": lnd,
         "CITY": "",
         "DISTRICT": "",
         "STATE/PROVINCE": "",
-        "ZIP/POSTAL CODE": "",
+        "ZIP/POSTAL CODE": zip,
         "COUNTRY": "",
         "CONTACT PHONE": "",
         "STORE SIZE": "",

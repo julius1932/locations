@@ -5,37 +5,45 @@ const fs = require('fs');
 var arr = [];
 var data = jsonfile.readFileSync('./dataJson.json');
 data.forEach(function(tt) {
-    let str = tt.other.split("\n");
-    str = str.filter(word => word.trim());
+    
     let zip = "";
-    let lnd = "";
+   let lnd="";
+    str = tt["other"].trim().replace("Address:","").split("\n");
+    str = str.filter(word => word.trim());
+    str.pop();
+    let phone=str.pop();
+    if (str[str.length - 1]) {
+        var matches = str[str.length - 1].trim().match(/s*(\d+)/);
+        zip = matches ? matches[0] : "";
+        zip = zip=="6" ? matches[1] : zip;
+        zip = zip==6 ? matches[1] : zip;
+    }
+
     str.forEach(function(s) {
         if (s.toLowerCase().includes("near") || s.toLowerCase().includes("opp")) {
             lnd += " " + s;
         }
     });
-
-
     let item = {
-        "BRANDS SOLD": "MICROMAX",
+        "BRANDS SOLD": "",
         "PRODUCT TYPES/ CATEGORIES": "TV",
         "RETAILER TYPE": "Consumer Electronics",
         "RETAILER_ID": "",
-        "RETAILER NAME": "",
-        "LOCATION NAME": str[0],
-        "ADDRESS": str[1],
-        "LAND MARK": lnd,
-        "CITY": "",
+        "RETAILER NAME": "ADITYA VISION",
+        "LOCATION NAME": str[0].split(",")[0],
+        "ADDRESS": str.join(" "),
+        "LAND MARK": "",
+        "CITY": tt.city,
         "DISTRICT": "",
         "STATE/PROVINCE": "",
         "ZIP/POSTAL CODE": zip,
         "COUNTRY": "India",
-        "CONTACT PHONE": str[2],
+        "CONTACT PHONE": phone,
         "CONTACT PERSON": "",
         "STORE SIZE": "",
         "GEO COORDINATES": "",
         "TIER LEVEL OF GOODS SOLD": "",
-        "URL": "http://www.micromaxinfo.com/store-locator",
+        "URL": "https://adityavision.in/store-network/",
         "NUMBER OF STORES/BRANCHIES IN THE CHAIN": "",
         "HQ ADDRESS": "",
         "HOLDING COMPANY NAME": "",
@@ -46,22 +54,11 @@ data.forEach(function(tt) {
         "MANUFACTURER ADDRESS": "",
         "MANUFACTURER CONTACT": ""
     };
-    str.pop();
-    str=str.join(" ");
-    str=str.replace("-", " ");
-    str=str.split(" ");
-    while (str.length > 0) {
-        var matches = str.pop().trim().match(/s*(\d+)/);
-        if (matches && matches[0].length >= 6) {
-            item["ZIP/POSTAL CODE"] = matches[0];
-            break;
-        }
-    }
 
     arr.push(item);
 });
-saveCsv('MICROMAX-csv.csv', arr);
-saveJson('MICROMAX-json.json', arr);
+saveCsv('ADITYA VISION-csv.csv', arr);
+saveJson('ADITYA VISION-json.json', arr);
 
 function saveCsv(folder, allDetails) {
     stringify(allDetails, { header: true }, function(err, output) {

@@ -8,8 +8,9 @@ var data = [];
 var pagesToVist = Object.keys(data);
 var vistedPages = [];
 var pagesToVist = ["https://www.adishwarestore.com/content.aspx?pgid=44675",
-"https://www.adishwarestore.com/pages/hyderabad/pgid-44676.aspx",
-"https://www.adishwarestore.com/pages/exclusive-stores/pgid-44679.aspx"];
+    "https://www.adishwarestore.com/pages/hyderabad/pgid-44676.aspx",
+    "https://www.adishwarestore.com/pages/exclusive-stores/pgid-44679.aspx"
+];
 
 //console.log(arr.length);
 var count = 0;
@@ -60,14 +61,29 @@ async function scrape(currlink) {
          item.category = "TV";
          item["Retailer Name"] = "Adhiswar India Limited";*/
 
-        let tableHeader = document.querySelectorAll('table.accordiantb tr td');
+        let tableHeader = document.querySelectorAll('.ui-accordion li');
 
         if (tableHeader) {
             tableHeader.forEach((tr, i) => {
                 if (tr) {
-                    let item = {};
-                    item["other"] = tr.innerText;
-                    arr.push(item);
+                    let city = tr.querySelector('.ui-accordion-header').innerText;
+                    let tds = tr.querySelectorAll('table.accordiantb tr td');
+                    tds.forEach((td, k) => {
+                        let item = { city: city };
+                        item["location"] = td.querySelector('p strong').innerText;
+                        let str = td.innerText.split("\n");
+                       str = str.filter(word => word.trim());
+                        item["email"] = str.pop();
+                        item["phone"] = str.pop();
+                        item["address"] = str.join(" ");
+                        if (item["phone"].includes(":")) {
+                            item["phone"] = item["phone"].split(":")[1].trim();
+                        }
+                        item["other"] = td.innerText;
+                        arr.push(item);
+                    });
+
+
                 }
 
             });

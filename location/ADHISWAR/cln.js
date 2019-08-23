@@ -5,37 +5,46 @@ const fs = require('fs');
 var arr = [];
 var data = jsonfile.readFileSync('./dataJson.json');
 data.forEach(function(tt) {
-    let str = tt.other.split("\n");
-    str = str.filter(word => word.trim());
+    let phone = "";
     let zip = "";
     let lnd = "";
+    str = tt["other"].trim().split("\n");
+    if (tt["other"].toLowerCase().includes("ph.:")) {
+        phone = str.pop().toLowerCase().split("ph.:")[1].trim();
+    }
+    if (tt["other"].toLowerCase().includes("@")) {
+        str.pop();
+    }
+    if (str[str.length-1]) {
+        var matches = str[str.length-1].trim().match(\s*(\d+)/);
+        console.log(matches);
+    }
+    str = str.filter(word => word.trim());
     str.forEach(function(s) {
         if (s.toLowerCase().includes("near") || s.toLowerCase().includes("opp")) {
             lnd += " " + s;
         }
     });
-
-
     let item = {
-        "BRANDS SOLD": "MICROMAX",
+        "BRANDS SOLD": "",
         "PRODUCT TYPES/ CATEGORIES": "TV",
         "RETAILER TYPE": "Consumer Electronics",
         "RETAILER_ID": "",
-        "RETAILER NAME": "",
-        "LOCATION NAME": str[0],
-        "ADDRESS": str[1],
+        "RETAILER NAME": "BAJAJ ELECTRONICS",
+        "LOCATION NAME": tt["location"],
+        "ADDRESS": tt["address"],
         "LAND MARK": lnd,
-        "CITY": "",
+        "CITY": tt["city"],
         "DISTRICT": "",
-        "STATE/PROVINCE": "",
+        "STATE/PROVINCE": "KARNATAKA",
         "ZIP/POSTAL CODE": zip,
         "COUNTRY": "India",
-        "CONTACT PHONE": str[2],
+        "CONTACT PHONE": tt["phone"],
         "CONTACT PERSON": "",
         "STORE SIZE": "",
         "GEO COORDINATES": "",
         "TIER LEVEL OF GOODS SOLD": "",
-        "URL": "http://www.micromaxinfo.com/store-locator",
+        "URL": "https://www.bajajelectronics.com/stores",
         "NUMBER OF STORES/BRANCHIES IN THE CHAIN": "",
         "HQ ADDRESS": "",
         "HOLDING COMPANY NAME": "",
@@ -46,22 +55,11 @@ data.forEach(function(tt) {
         "MANUFACTURER ADDRESS": "",
         "MANUFACTURER CONTACT": ""
     };
-    str.pop();
-    str=str.join(" ");
-    str=str.replace("-", " ");
-    str=str.split(" ");
-    while (str.length > 0) {
-        var matches = str.pop().trim().match(/s*(\d+)/);
-        if (matches && matches[0].length >= 6) {
-            item["ZIP/POSTAL CODE"] = matches[0];
-            break;
-        }
-    }
 
     arr.push(item);
 });
-saveCsv('MICROMAX-csv.csv', arr);
-saveJson('MICROMAX-json.json', arr);
+saveCsv('BAJAJ ELECTRONICS-csv.csv', arr);
+saveJson('ABAJAJ ELECTRONICS-json.json', arr);
 
 function saveCsv(folder, allDetails) {
     stringify(allDetails, { header: true }, function(err, output) {

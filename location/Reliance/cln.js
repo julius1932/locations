@@ -4,27 +4,37 @@ const fs = require('fs');
 
 var arr = [];
 var data = jsonfile.readFileSync('./dataJson.json');
+var citStates = jsonfile.readFileSync('./citStates.json');
 data.forEach(function(tt) {
+    let str = tt['address'].split(",");
+     str = str.filter(word => word.trim());
+    
+    let lnd = "";
+
+    str.forEach(function(s) {
+        if (s.toLowerCase().includes("near") || s.toLowerCase().includes("opp")) {
+            lnd += " " + s;
+        }
+    });
     var item = {
-    "BRANDS SOLD": "",
+    "BRANDS SOLD": "", 
     "PRODUCT TYPES/ CATEGORIES": "TV",
     "RETAILER TYPE": "Consumer Electronics",
     "RETAILER_ID": "",
-    "RETAILER NAME": "QRS",
+    "RETAILER NAME": "RELIANCE DIGITAL",
     "LOCATION NAME": "",
-    "ADDRESS": tt.other,
-    "LAND MARK": "",
-    "CITY": tt.city,
+    "ADDRESS": tt["address"],
+    "LAND MARK": lnd,
+    "CITY": tt["City"],
     "DISTRICT": "",
-    "STATE/PROVINCE": tt.state,
-    "ZIP/POSTAL CODE": tt.zip,
-    "COUNTRY": "India",
-    "CONTACT PHONE": tt.Phone,
-    "CONTACT PERSON":tt["Branch Manager"],
+    "STATE/PROVINCE": citStates[tt["City"].toUpperCase()],
+    "ZIP/POSTAL CODE": tt["Pincode"],
+    "COUNTRY": "",
+    "CONTACT PHONE": "",
     "STORE SIZE": "",
     "GEO COORDINATES": "",
     "TIER LEVEL OF GOODS SOLD": "",
-    "URL": "https://qrs.in/pages/store",
+    "URL": "https://www.reliancedigital.in/locateus",
     "NUMBER OF STORES/BRANCHIES IN THE CHAIN": "",
     "HQ ADDRESS": "",
     "HOLDING COMPANY NAME": "",
@@ -37,8 +47,8 @@ data.forEach(function(tt) {
 };
     arr.push(item);
 });
-saveCsv('QRS-csv.csv', arr);
-saveJson('QRS-json.json', arr);
+saveCsv('reliancedigital-csv.csv', arr);
+saveJson('reliancedigital-json.json', arr);
 function saveCsv(folder, allDetails) {
     stringify(allDetails, { header: true }, function(err, output) {
         fs.writeFile(folder, output, 'utf8', function(err) {
